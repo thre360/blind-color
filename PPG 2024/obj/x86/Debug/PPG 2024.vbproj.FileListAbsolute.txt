@@ -1,0 +1,60 @@
+C:\Users\Optimizer\AppData\Local\Temporary Projects\PPG 2024\bin\Debug\PPG 2024.exe
+C:\Users\Optimizer\AppData\Local\Temporary Projects\PPG 2024\bin\Debug\PPG 2024.pdb
+C:\Users\Optimizer\AppData\Local\Temporary Projects\PPG 2024\bin\Debug\PPG 2024.xml
+C:\Users\Optimizer\AppData\Local\Temporary Projects\PPG 2024\obj\x86\Debug\PPG_2024.frmUtama.resources
+C:\Users\Optimizer\AppData\Local\Temporary Projects\PPG 2024\obj\x86\Debug\PPG_2024.Resources.resources
+C:\Users\Optimizer\AppData\Local\Temporary Projects\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.GenerateResource.Cache
+C:\Users\Optimizer\AppData\Local\Temporary Projects\PPG 2024\obj\x86\Debug\PPG 2024.exe
+C:\Users\Optimizer\AppData\Local\Temporary Projects\PPG 2024\obj\x86\Debug\PPG 2024.xml
+C:\Users\Optimizer\AppData\Local\Temporary Projects\PPG 2024\obj\x86\Debug\PPG 2024.pdb
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.exe
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.xml
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.pdb
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\bin\Debug\PPG 2024.exe
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\bin\Debug\PPG 2024.pdb
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\bin\Debug\PPG 2024.xml
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmUtama.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.Resources.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.GenerateResource.Cache
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmLoading.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmTxtBox.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawa.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawaGlobal.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmBerhasilSkorNyawaGlobal.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\bin\Debug\Interop.WMPLib.dll
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.ResolveComReference.cache
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmJawabanBintang5.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSwapGambar.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawaGlobalTimer.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmRandom.resources
+C:\Users\Optimizer\Documents\Visual Studio 2010\Projects\PPG 2024\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmPilihGambar.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\bin\Debug\PPG 2024.exe.config
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\bin\Debug\PPG 2024.exe
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\bin\Debug\PPG 2024.pdb
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\bin\Debug\PPG 2024.xml
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\bin\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmBerhasilSkorNyawaGlobal.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmJawabanBintang5.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmLoading.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmPilihGambar.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmRandom.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawa.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawaGlobal.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawaGlobalTimer.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSwapGambar.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmTxtBox.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmUtama.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.Resources.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.exe
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.xml
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.pdb

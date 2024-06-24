@@ -1,0 +1,181 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class frmSkorNyawa
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.btnKirimJawaban = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.lblNyawa = New System.Windows.Forms.Label()
+        Me.rbD = New System.Windows.Forms.RadioButton()
+        Me.lblScore = New System.Windows.Forms.Label()
+        Me.rbC = New System.Windows.Forms.RadioButton()
+        Me.gbPertanyaan = New System.Windows.Forms.GroupBox()
+        Me.rbB = New System.Windows.Forms.RadioButton()
+        Me.rbA = New System.Windows.Forms.RadioButton()
+        Me.lblPertanyaan = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.gbPertanyaan.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'btnKirimJawaban
+        '
+        Me.btnKirimJawaban.Location = New System.Drawing.Point(41, 180)
+        Me.btnKirimJawaban.Name = "btnKirimJawaban"
+        Me.btnKirimJawaban.Size = New System.Drawing.Size(111, 37)
+        Me.btnKirimJawaban.TabIndex = 0
+        Me.btnKirimJawaban.Text = "Kirim Jawaban"
+        Me.btnKirimJawaban.UseVisualStyleBackColor = True
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(532, 28)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(50, 17)
+        Me.Label1.TabIndex = 4
+        Me.Label1.Text = "Nyawa"
+        '
+        'lblNyawa
+        '
+        Me.lblNyawa.AutoSize = True
+        Me.lblNyawa.Location = New System.Drawing.Point(532, 60)
+        Me.lblNyawa.Name = "lblNyawa"
+        Me.lblNyawa.Size = New System.Drawing.Size(81, 17)
+        Me.lblNyawa.TabIndex = 5
+        Me.lblNyawa.Text = "Nilai Nyawa"
+        '
+        'rbD
+        '
+        Me.rbD.AutoSize = True
+        Me.rbD.Location = New System.Drawing.Point(311, 134)
+        Me.rbD.Name = "rbD"
+        Me.rbD.Size = New System.Drawing.Size(39, 21)
+        Me.rbD.TabIndex = 4
+        Me.rbD.TabStop = True
+        Me.rbD.Text = "D"
+        Me.rbD.UseVisualStyleBackColor = True
+        '
+        'lblScore
+        '
+        Me.lblScore.AutoSize = True
+        Me.lblScore.Location = New System.Drawing.Point(641, 60)
+        Me.lblScore.Name = "lblScore"
+        Me.lblScore.Size = New System.Drawing.Size(76, 17)
+        Me.lblScore.TabIndex = 2
+        Me.lblScore.Text = "NIlai Score"
+        '
+        'rbC
+        '
+        Me.rbC.AutoSize = True
+        Me.rbC.Location = New System.Drawing.Point(311, 84)
+        Me.rbC.Name = "rbC"
+        Me.rbC.Size = New System.Drawing.Size(38, 21)
+        Me.rbC.TabIndex = 3
+        Me.rbC.TabStop = True
+        Me.rbC.Text = "C"
+        Me.rbC.UseVisualStyleBackColor = True
+        '
+        'gbPertanyaan
+        '
+        Me.gbPertanyaan.Controls.Add(Me.btnKirimJawaban)
+        Me.gbPertanyaan.Controls.Add(Me.rbD)
+        Me.gbPertanyaan.Controls.Add(Me.rbC)
+        Me.gbPertanyaan.Controls.Add(Me.rbB)
+        Me.gbPertanyaan.Controls.Add(Me.rbA)
+        Me.gbPertanyaan.Controls.Add(Me.lblPertanyaan)
+        Me.gbPertanyaan.Location = New System.Drawing.Point(101, 250)
+        Me.gbPertanyaan.Name = "gbPertanyaan"
+        Me.gbPertanyaan.Size = New System.Drawing.Size(571, 237)
+        Me.gbPertanyaan.TabIndex = 6
+        Me.gbPertanyaan.TabStop = False
+        Me.gbPertanyaan.Text = "Grup Box"
+        '
+        'rbB
+        '
+        Me.rbB.AutoSize = True
+        Me.rbB.Location = New System.Drawing.Point(41, 134)
+        Me.rbB.Name = "rbB"
+        Me.rbB.Size = New System.Drawing.Size(38, 21)
+        Me.rbB.TabIndex = 2
+        Me.rbB.TabStop = True
+        Me.rbB.Text = "B"
+        Me.rbB.UseVisualStyleBackColor = True
+        '
+        'rbA
+        '
+        Me.rbA.AutoSize = True
+        Me.rbA.Location = New System.Drawing.Point(41, 84)
+        Me.rbA.Name = "rbA"
+        Me.rbA.Size = New System.Drawing.Size(38, 21)
+        Me.rbA.TabIndex = 1
+        Me.rbA.TabStop = True
+        Me.rbA.Text = "A"
+        Me.rbA.UseVisualStyleBackColor = True
+        '
+        'lblPertanyaan
+        '
+        Me.lblPertanyaan.AutoSize = True
+        Me.lblPertanyaan.Location = New System.Drawing.Point(38, 49)
+        Me.lblPertanyaan.Name = "lblPertanyaan"
+        Me.lblPertanyaan.Size = New System.Drawing.Size(85, 17)
+        Me.lblPertanyaan.TabIndex = 0
+        Me.lblPertanyaan.Text = "Pertanyaan "
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(641, 28)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(45, 17)
+        Me.Label2.TabIndex = 3
+        Me.Label2.Text = "Score"
+        '
+        'frmSkorNyawa
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(782, 553)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.lblNyawa)
+        Me.Controls.Add(Me.lblScore)
+        Me.Controls.Add(Me.gbPertanyaan)
+        Me.Controls.Add(Me.Label2)
+        Me.Name = "frmSkorNyawa"
+        Me.Text = "frmSkorNyawa"
+        Me.gbPertanyaan.ResumeLayout(False)
+        Me.gbPertanyaan.PerformLayout()
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+    Friend WithEvents btnKirimJawaban As System.Windows.Forms.Button
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents lblNyawa As System.Windows.Forms.Label
+    Friend WithEvents rbD As System.Windows.Forms.RadioButton
+    Friend WithEvents lblScore As System.Windows.Forms.Label
+    Friend WithEvents rbC As System.Windows.Forms.RadioButton
+    Friend WithEvents gbPertanyaan As System.Windows.Forms.GroupBox
+    Friend WithEvents rbB As System.Windows.Forms.RadioButton
+    Friend WithEvents rbA As System.Windows.Forms.RadioButton
+    Friend WithEvents lblPertanyaan As System.Windows.Forms.Label
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+End Class

@@ -23,18 +23,12 @@ Partial Class frmLoading
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
-        Me.ProgressBar1 = New System.Windows.Forms.ProgressBar()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmLoading))
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.ProgressBar1 = New System.Windows.Forms.ProgressBar()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
-        '
-        'ProgressBar1
-        '
-        Me.ProgressBar1.Location = New System.Drawing.Point(12, 404)
-        Me.ProgressBar1.Name = "ProgressBar1"
-        Me.ProgressBar1.Size = New System.Drawing.Size(580, 16)
-        Me.ProgressBar1.TabIndex = 0
         '
         'Timer1
         '
@@ -42,12 +36,20 @@ Partial Class frmLoading
         'PictureBox1
         '
         Me.PictureBox1.Image = Global.PPG_2024.My.Resources.Resources.loading
-        Me.PictureBox1.Location = New System.Drawing.Point(115, 36)
+        Me.PictureBox1.Location = New System.Drawing.Point(127, 59)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(358, 339)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 2
         Me.PictureBox1.TabStop = False
+        '
+        'ProgressBar1
+        '
+        Me.ProgressBar1.Location = New System.Drawing.Point(12, 404)
+        Me.ProgressBar1.Name = "ProgressBar1"
+        Me.ProgressBar1.Size = New System.Drawing.Size(580, 16)
+        Me.ProgressBar1.TabIndex = 0
+        Me.ProgressBar1.Visible = False
         '
         'frmLoading
         '
@@ -57,13 +59,14 @@ Partial Class frmLoading
         Me.ClientSize = New System.Drawing.Size(607, 455)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.ProgressBar1)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmLoading"
-        Me.Text = "frmLoading"
+        Me.Text = "Color Blind"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
-    Friend WithEvents ProgressBar1 As System.Windows.Forms.ProgressBar
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
     Friend WithEvents PictureBox1 As PictureBox
+    Friend WithEvents ProgressBar1 As ProgressBar
 End Class

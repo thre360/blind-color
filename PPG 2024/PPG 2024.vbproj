@@ -250,7 +250,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\bgSound.wav" />
     <None Include="bin\Apel1.png" />
     <None Include="bin\Apel2.png" />
     <None Include="bin\Apel3.png" />
@@ -270,6 +269,8 @@
     <None Include="bin\2.png" />
     <None Include="bin\1.png" />
     <None Include="bin\loading.gif" />
+    <None Include="bin\bgSound.wav" />
+    <Content Include="bin\sound.wav" />
     <Content Include="Logo PPG 2024.ico" />
   </ItemGroup>
   <ItemGroup>

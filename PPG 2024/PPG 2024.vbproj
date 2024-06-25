@@ -270,6 +270,12 @@
     <None Include="bin\1.png" />
     <None Include="bin\loading.gif" />
     <None Include="bin\bgSound.wav" />
+    <Content Include="bin\2number30.png" />
+    <Content Include="bin\2number38.png" />
+    <Content Include="bin\2number88.png" />
+    <Content Include="bin\3number69.png" />
+    <Content Include="bin\3number88.png" />
+    <Content Include="bin\3number96.png" />
     <Content Include="bin\sound.wav" />
     <Content Include="Logo PPG 2024.ico" />
   </ItemGroup>

@@ -58,3 +58,14 @@ C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.vb
 C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.exe
 C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.xml
 C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG 2024.pdb
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage1.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmMulai.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage2.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage3.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage10.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage4.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage5.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage6.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage7.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage8.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage9.resources

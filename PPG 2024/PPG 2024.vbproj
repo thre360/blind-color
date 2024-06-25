@@ -16,6 +16,7 @@
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -28,7 +29,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -67,7 +67,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Logo PPG 2024.ico</ApplicationIcon>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -75,6 +75,7 @@
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -93,6 +94,54 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmStage4.Designer.vb">
+      <DependentUpon>frmStage4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStage4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStage5.Designer.vb">
+      <DependentUpon>frmStage5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStage5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStage6.Designer.vb">
+      <DependentUpon>frmStage6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStage6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStage7.Designer.vb">
+      <DependentUpon>frmStage7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStage7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStage8.Designer.vb">
+      <DependentUpon>frmStage8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStage8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStage9.Designer.vb">
+      <DependentUpon>frmStage9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStage9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStage10.Designer.vb">
+      <DependentUpon>frmStage10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStage10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMulai.Designer.vb">
+      <DependentUpon>frmMulai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMulai.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmBerhasilSkorNyawaGlobal.Designer.vb">
       <DependentUpon>frmBerhasilSkorNyawaGlobal.vb</DependentUpon>
     </Compile>
@@ -197,6 +246,9 @@
     <Compile Include="temp.vb" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmMulai.resx">
+      <DependentUpon>frmMulai.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmBerhasilSkorNyawaGlobal.resx">
       <DependentUpon>frmBerhasilSkorNyawaGlobal.vb</DependentUpon>
     </EmbeddedResource>
@@ -220,6 +272,36 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmSkorNyawaGlobalTimer.resx">
       <DependentUpon>frmSkorNyawaGlobalTimer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage1.resx">
+      <DependentUpon>frmStage1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage10.resx">
+      <DependentUpon>frmStage10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage2.resx">
+      <DependentUpon>frmStage2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage3.resx">
+      <DependentUpon>frmStage3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage4.resx">
+      <DependentUpon>frmStage4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage5.resx">
+      <DependentUpon>frmStage5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage6.resx">
+      <DependentUpon>frmStage6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage7.resx">
+      <DependentUpon>frmStage7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage8.resx">
+      <DependentUpon>frmStage8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStage9.resx">
+      <DependentUpon>frmStage9.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSwapGambar.resx">
       <DependentUpon>frmSwapGambar.vb</DependentUpon>
@@ -250,6 +332,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="bin\play.png" />
+    <None Include="bin\info.png" />
+    <Content Include="bin\settings.png" />
+    <Content Include="logo.ico" />
+    <None Include="Resources\bgSound.wav" />
     <None Include="bin\Apel1.png" />
     <None Include="bin\Apel2.png" />
     <None Include="bin\Apel3.png" />

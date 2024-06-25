@@ -6,7 +6,7 @@
         ElseIf ProgressBar1.Value = 100 Then
             Timer1.Stop()
             Me.Hide()
-            frmUtama.Show()
+            frmMulai.Show()
         End If
 
     End Sub

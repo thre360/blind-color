@@ -107,6 +107,11 @@ PPG 2024
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PPG_2024.My.Resources.Resources.info">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PPG_2024.My.Resources.Resources.loading">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -125,6 +130,21 @@ PPG 2024
 <member name="P:PPG_2024.My.Resources.Resources.number_9">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.play">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.sound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
 </summary>
 </member>
 </members>

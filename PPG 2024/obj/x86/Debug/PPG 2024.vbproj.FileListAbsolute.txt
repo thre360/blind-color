@@ -108,3 +108,4 @@ D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.CoreCompileInputs.cache
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.exe
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.xml
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.pdb
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSettings.resources

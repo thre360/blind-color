@@ -33,7 +33,7 @@
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <DefineDebug>true</DefineDebug>
@@ -94,10 +94,10 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmSetting.Designer.vb">
-      <DependentUpon>FrmSetting.vb</DependentUpon>
+    <Compile Include="frmSettings.Designer.vb">
+      <DependentUpon>frmSettings.vb</DependentUpon>
     </Compile>
-    <Compile Include="FrmSetting.vb">
+    <Compile Include="frmSettings.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmStage4.Designer.vb">
@@ -270,8 +270,8 @@
     <EmbeddedResource Include="frmRandom.resx">
       <DependentUpon>frmRandom.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmSetting.resx">
-      <DependentUpon>FrmSetting.vb</DependentUpon>
+    <EmbeddedResource Include="frmSettings.resx">
+      <DependentUpon>frmSettings.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSkorNyawa.resx">
       <DependentUpon>frmSkorNyawa.vb</DependentUpon>
@@ -365,7 +365,6 @@
     <None Include="bin\2.png" />
     <None Include="bin\1.png" />
     <None Include="bin\loading.gif" />
-    <None Include="bin\bgSound.wav" />
     <Content Include="bin\2number30.png" />
     <Content Include="bin\2number38.png" />
     <Content Include="bin\2number88.png" />

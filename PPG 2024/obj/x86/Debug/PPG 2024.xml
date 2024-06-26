@@ -127,12 +127,27 @@ PPG 2024
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PPG_2024.My.Resources.Resources.bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.bgmain">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PPG_2024.My.Resources.Resources.bgSound">
 <summary>
   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
 </summary>
 </member>
 <member name="P:PPG_2024.My.Resources.Resources.Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.blank">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -185,6 +200,11 @@ PPG 2024
 <member name="P:PPG_2024.My.Resources.Resources.sound">
 <summary>
   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.WhatsApp_Image_2024_06_26_at_20_08_41_d05948cc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 </members>

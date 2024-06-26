@@ -24,7 +24,6 @@ Partial Class frmStage3
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmStage3))
         Me.PictureBox3 = New System.Windows.Forms.PictureBox()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
@@ -35,8 +34,9 @@ Partial Class frmStage3
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PictureBox8 = New System.Windows.Forms.PictureBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.PictureBox9 = New System.Windows.Forms.PictureBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -50,6 +50,7 @@ Partial Class frmStage3
         '
         'PictureBox3
         '
+        Me.PictureBox3.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox3.Image = Global.PPG_2024.My.Resources.Resources._3heart
         Me.PictureBox3.Location = New System.Drawing.Point(759, 34)
         Me.PictureBox3.Name = "PictureBox3"
@@ -58,22 +59,6 @@ Partial Class frmStage3
         Me.PictureBox3.TabIndex = 56
         Me.PictureBox3.TabStop = False
         '
-        'TextBox1
-        '
-        Me.TextBox1.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.TextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.TextBox1.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.TextBox1.Font = New System.Drawing.Font("Bernard MT Condensed", 13.824!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.ForeColor = System.Drawing.Color.Black
-        Me.TextBox1.HideSelection = False
-        Me.TextBox1.Location = New System.Drawing.Point(506, 162)
-        Me.TextBox1.Multiline = True
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.ReadOnly = True
-        Me.TextBox1.Size = New System.Drawing.Size(315, 36)
-        Me.TextBox1.TabIndex = 55
-        Me.TextBox1.Text = "Berapa angka yang anda lihat ?"
-        '
         'Label3
         '
         Me.Label3.AutoSize = True
@@ -81,7 +66,7 @@ Partial Class frmStage3
         Me.Label3.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(644, 393)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(39, 46)
+        Me.Label3.Size = New System.Drawing.Size(43, 49)
         Me.Label3.TabIndex = 54
         Me.Label3.Text = "6"
         '
@@ -92,7 +77,7 @@ Partial Class frmStage3
         Me.Label2.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(644, 305)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(39, 46)
+        Me.Label2.Size = New System.Drawing.Size(43, 49)
         Me.Label2.TabIndex = 53
         Me.Label2.Text = "8"
         '
@@ -103,12 +88,13 @@ Partial Class frmStage3
         Me.Label1.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(644, 214)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(39, 46)
+        Me.Label1.Size = New System.Drawing.Size(43, 49)
         Me.Label1.TabIndex = 52
         Me.Label1.Text = "3"
         '
         'PictureBox7
         '
+        Me.PictureBox7.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox7.Image = Global.PPG_2024.My.Resources.Resources.background_number
         Me.PictureBox7.Location = New System.Drawing.Point(506, 292)
         Me.PictureBox7.Name = "PictureBox7"
@@ -119,6 +105,7 @@ Partial Class frmStage3
         '
         'PictureBox6
         '
+        Me.PictureBox6.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox6.Image = Global.PPG_2024.My.Resources.Resources.background_number
         Me.PictureBox6.Location = New System.Drawing.Point(506, 380)
         Me.PictureBox6.Name = "PictureBox6"
@@ -129,6 +116,7 @@ Partial Class frmStage3
         '
         'PictureBox5
         '
+        Me.PictureBox5.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox5.Image = Global.PPG_2024.My.Resources.Resources.background_number
         Me.PictureBox5.Location = New System.Drawing.Point(506, 202)
         Me.PictureBox5.Name = "PictureBox5"
@@ -139,16 +127,18 @@ Partial Class frmStage3
         '
         'PictureBox4
         '
+        Me.PictureBox4.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox4.Image = Global.PPG_2024.My.Resources.Resources._3
-        Me.PictureBox4.Location = New System.Drawing.Point(44, 110)
+        Me.PictureBox4.Location = New System.Drawing.Point(53, 98)
         Me.PictureBox4.Name = "PictureBox4"
-        Me.PictureBox4.Size = New System.Drawing.Size(305, 283)
+        Me.PictureBox4.Size = New System.Drawing.Size(286, 277)
         Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox4.TabIndex = 48
         Me.PictureBox4.TabStop = False
         '
         'PictureBox1
         '
+        Me.PictureBox1.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox1.Image = Global.PPG_2024.My.Resources.Resources._2heart
         Me.PictureBox1.Location = New System.Drawing.Point(759, 34)
         Me.PictureBox1.Name = "PictureBox1"
@@ -159,6 +149,7 @@ Partial Class frmStage3
         '
         'PictureBox2
         '
+        Me.PictureBox2.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox2.Image = Global.PPG_2024.My.Resources.Resources._1heart
         Me.PictureBox2.Location = New System.Drawing.Point(759, 34)
         Me.PictureBox2.Name = "PictureBox2"
@@ -169,6 +160,7 @@ Partial Class frmStage3
         '
         'PictureBox8
         '
+        Me.PictureBox8.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox8.Image = Global.PPG_2024.My.Resources.Resources.hatiempty
         Me.PictureBox8.Location = New System.Drawing.Point(759, 34)
         Me.PictureBox8.Name = "PictureBox8"
@@ -177,24 +169,9 @@ Partial Class frmStage3
         Me.PictureBox8.TabIndex = 59
         Me.PictureBox8.TabStop = False
         '
-        'TextBox2
-        '
-        Me.TextBox2.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.TextBox2.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.TextBox2.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.TextBox2.Font = New System.Drawing.Font("Bernard MT Condensed", 13.824!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox2.ForeColor = System.Drawing.Color.Black
-        Me.TextBox2.HideSelection = False
-        Me.TextBox2.Location = New System.Drawing.Point(447, 34)
-        Me.TextBox2.Multiline = True
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.ReadOnly = True
-        Me.TextBox2.Size = New System.Drawing.Size(77, 36)
-        Me.TextBox2.TabIndex = 60
-        Me.TextBox2.Text = "Level 3"
-        '
         'PictureBox9
         '
+        Me.PictureBox9.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox9.Image = Global.PPG_2024.My.Resources.Resources.Kembali
         Me.PictureBox9.Location = New System.Drawing.Point(44, 34)
         Me.PictureBox9.Name = "PictureBox9"
@@ -203,16 +180,38 @@ Partial Class frmStage3
         Me.PictureBox9.TabIndex = 61
         Me.PictureBox9.TabStop = False
         '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.BackColor = System.Drawing.Color.Transparent
+        Me.Label4.Font = New System.Drawing.Font("Bernard MT Condensed", 13.824!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.Location = New System.Drawing.Point(506, 164)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(318, 28)
+        Me.Label4.TabIndex = 62
+        Me.Label4.Text = "Berapa angka yang anda lihat ?"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.BackColor = System.Drawing.Color.Transparent
+        Me.Label5.Font = New System.Drawing.Font("Bernard MT Condensed", 13.824!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.Location = New System.Drawing.Point(450, 32)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(78, 28)
+        Me.Label5.TabIndex = 63
+        Me.Label5.Text = "Level 3"
+        '
         'frmStage3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.BackgroundImage = Global.PPG_2024.My.Resources.Resources.bg
+        Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(962, 487)
         Me.Controls.Add(Me.PictureBox9)
-        Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.PictureBox3)
-        Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
@@ -223,8 +222,12 @@ Partial Class frmStage3
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.PictureBox8)
+        Me.Controls.Add(Me.Label4)
+        Me.Controls.Add(Me.Label5)
+        Me.DoubleBuffered = True
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmStage3"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Blind Color"
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).EndInit()
@@ -241,7 +244,6 @@ Partial Class frmStage3
     End Sub
 
     Friend WithEvents PictureBox3 As PictureBox
-    Friend WithEvents TextBox1 As TextBox
     Friend WithEvents Label3 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Label1 As Label
@@ -252,6 +254,7 @@ Partial Class frmStage3
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents PictureBox8 As PictureBox
-    Friend WithEvents TextBox2 As TextBox
     Friend WithEvents PictureBox9 As PictureBox
+    Friend WithEvents Label4 As Label
+    Friend WithEvents Label5 As Label
 End Class

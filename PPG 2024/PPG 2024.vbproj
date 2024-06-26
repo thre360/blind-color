@@ -351,7 +351,11 @@
     <None Include="Resources\Kembali1.png" />
     <None Include="bin\play.png" />
     <None Include="bin\info.png" />
+    <None Include="bin\blank.png" />
+    <None Include="bin\bg.png" />
+    <None Include="bin\bgmain.png" />
     <Content Include="bin\settings.png" />
+    <None Include="bin\WhatsApp Image 2024-06-26 at 20.08.41_d05948cc.jpg" />
     <Content Include="logo.ico" />
     <None Include="Resources\bgSound.wav" />
     <None Include="bin\Apel1.png" />

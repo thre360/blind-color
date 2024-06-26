@@ -69,3 +69,42 @@ C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.fr
 C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage7.resources
 C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage8.resources
 C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmStage9.resources
+D:\blind-color\PPG 2024\bin\Debug\PPG 2024.exe.config
+D:\blind-color\PPG 2024\bin\Debug\PPG 2024.exe
+D:\blind-color\PPG 2024\bin\Debug\PPG 2024.pdb
+D:\blind-color\PPG 2024\bin\Debug\PPG 2024.xml
+D:\blind-color\PPG 2024\bin\Debug\Interop.WMPLib.dll
+D:\blind-color\PPG 2024\bin\Debug\AxInterop.WMPLib.dll
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.AssemblyReference.cache
+D:\blind-color\PPG 2024\obj\x86\Debug\Interop.WMPLib.dll
+D:\blind-color\PPG 2024\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.ResolveComReference.cache
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmMulai.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmBerhasilSkorNyawaGlobal.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmJawabanBintang5.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmLoading.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmPilihGambar.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmRandom.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.FrmSetting.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawa.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawaGlobal.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawaGlobalTimer.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage1.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage10.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage2.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage3.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage4.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage5.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage6.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage7.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage8.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmStage9.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmSwapGambar.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmTxtBox.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmUtama.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.Resources.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.GenerateResource.cache
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.vbproj.CoreCompileInputs.cache
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.exe
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.xml
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.pdb

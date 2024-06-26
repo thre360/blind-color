@@ -36,6 +36,7 @@ Partial Class frmStage3
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PictureBox8 = New System.Windows.Forms.PictureBox()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.PictureBox9 = New System.Windows.Forms.PictureBox()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -44,6 +45,7 @@ Partial Class frmStage3
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'PictureBox3
@@ -79,9 +81,9 @@ Partial Class frmStage3
         Me.Label3.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(644, 393)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(43, 49)
+        Me.Label3.Size = New System.Drawing.Size(39, 46)
         Me.Label3.TabIndex = 54
-        Me.Label3.Text = "9"
+        Me.Label3.Text = "6"
         '
         'Label2
         '
@@ -90,9 +92,9 @@ Partial Class frmStage3
         Me.Label2.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(644, 305)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(43, 49)
+        Me.Label2.Size = New System.Drawing.Size(39, 46)
         Me.Label2.TabIndex = 53
-        Me.Label2.Text = "2"
+        Me.Label2.Text = "8"
         '
         'Label1
         '
@@ -101,9 +103,9 @@ Partial Class frmStage3
         Me.Label1.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(644, 214)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(43, 49)
+        Me.Label1.Size = New System.Drawing.Size(39, 46)
         Me.Label1.TabIndex = 52
-        Me.Label1.Text = "7"
+        Me.Label1.Text = "3"
         '
         'PictureBox7
         '
@@ -137,7 +139,7 @@ Partial Class frmStage3
         '
         'PictureBox4
         '
-        Me.PictureBox4.Image = Global.PPG_2024.My.Resources.Resources._1
+        Me.PictureBox4.Image = Global.PPG_2024.My.Resources.Resources._3
         Me.PictureBox4.Location = New System.Drawing.Point(44, 110)
         Me.PictureBox4.Name = "PictureBox4"
         Me.PictureBox4.Size = New System.Drawing.Size(305, 283)
@@ -191,12 +193,23 @@ Partial Class frmStage3
         Me.TextBox2.TabIndex = 60
         Me.TextBox2.Text = "Level 3"
         '
+        'PictureBox9
+        '
+        Me.PictureBox9.Image = Global.PPG_2024.My.Resources.Resources.Kembali
+        Me.PictureBox9.Location = New System.Drawing.Point(44, 34)
+        Me.PictureBox9.Name = "PictureBox9"
+        Me.PictureBox9.Size = New System.Drawing.Size(43, 48)
+        Me.PictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox9.TabIndex = 61
+        Me.PictureBox9.TabStop = False
+        '
         'frmStage3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(962, 487)
+        Me.Controls.Add(Me.PictureBox9)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.PictureBox3)
         Me.Controls.Add(Me.TextBox1)
@@ -221,6 +234,7 @@ Partial Class frmStage3
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -239,4 +253,5 @@ Partial Class frmStage3
     Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents PictureBox8 As PictureBox
     Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents PictureBox9 As PictureBox
 End Class

@@ -27,6 +27,11 @@ PPG 2024
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PPG_2024.My.Resources.Resources._10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PPG_2024.My.Resources.Resources._1heart">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -48,6 +53,36 @@ PPG 2024
 </summary>
 </member>
 <member name="P:PPG_2024.My.Resources.Resources._3heart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources._4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources._5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources._6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources._7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources._8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources._9">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -108,6 +143,11 @@ PPG 2024
 </summary>
 </member>
 <member name="P:PPG_2024.My.Resources.Resources.info">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.Kembali">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

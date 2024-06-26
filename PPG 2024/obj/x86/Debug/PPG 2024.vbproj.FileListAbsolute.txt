@@ -85,7 +85,6 @@ D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmJawabanBintang5.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmLoading.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmPilihGambar.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmRandom.resources
-D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.FrmSetting.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawa.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawaGlobal.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmSkorNyawaGlobalTimer.resources
@@ -109,3 +108,4 @@ D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.exe
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.xml
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG 2024.pdb
 C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmSettings.resources
+D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmSettings.resources

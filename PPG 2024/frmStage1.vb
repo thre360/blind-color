@@ -95,4 +95,9 @@
     Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles TextBox2.TextChanged
 
     End Sub
+
+    Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
+        Me.Close()
+        frmUtama.Show()
+    End Sub
 End Class

@@ -32,11 +32,11 @@
         End If
     End Sub
 
-    Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
+    Private Sub PictureBox6_Click(sender As Object, e As EventArgs) Handles PictureBox6.Click
         MessageBox.Show("Jawaban anda benar")
     End Sub
 
-    Private Sub PictureBox6_Click(sender As Object, e As EventArgs) Handles PictureBox6.Click
+    Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
         If isPictureBox3Visible Then
             Me.Controls.Remove(PictureBox3)
             isPictureBox3Visible = False
@@ -90,5 +90,10 @@
 
     Private Sub frmStage2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
+    End Sub
+
+    Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
+        Me.Close()
+        frmUtama.Show()
     End Sub
 End Class

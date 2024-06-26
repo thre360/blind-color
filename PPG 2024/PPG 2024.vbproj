@@ -341,6 +341,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\102.png" />
+    <None Include="Resources\92.png" />
+    <None Include="Resources\82.png" />
+    <None Include="Resources\72.png" />
+    <None Include="Resources\62.png" />
+    <None Include="Resources\52.png" />
+    <None Include="Resources\42.png" />
+    <None Include="Resources\Kembali1.png" />
     <None Include="bin\play.png" />
     <None Include="bin\info.png" />
     <Content Include="bin\settings.png" />

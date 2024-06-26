@@ -16,7 +16,7 @@
     Private isPictureBox2Visible As Boolean = True
     Private isPictureBox8Visible As Boolean = True
 
-    Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
+    Private Sub PictureBox5_Click(sender As Object, e As EventArgs) Handles PictureBox5.Click
         If isPictureBox3Visible Then
             Me.Controls.Remove(PictureBox3)
             isPictureBox3Visible = False
@@ -32,7 +32,7 @@
         End If
     End Sub
 
-    Private Sub PictureBox5_Click(sender As Object, e As EventArgs) Handles PictureBox5.Click
+    Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
         MessageBox.Show("Jawaban anda benar")
     End Sub
 
@@ -52,7 +52,7 @@
         End If
     End Sub
 
-    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
         If isPictureBox3Visible Then
             Me.Controls.Remove(PictureBox3)
             isPictureBox3Visible = False
@@ -68,7 +68,7 @@
         End If
     End Sub
 
-    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
         MessageBox.Show("Jawaban anda benar")
     End Sub
 
@@ -88,7 +88,4 @@
         End If
     End Sub
 
-    Private Sub frmStage3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
-    End Sub
 End Class

@@ -30,7 +30,7 @@ Partial Class frmSettings
         Me.TextBox4 = New System.Windows.Forms.TextBox()
         Me.CheckBox1 = New System.Windows.Forms.CheckBox()
         Me.CheckBox2 = New System.Windows.Forms.CheckBox()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -111,7 +111,7 @@ Partial Class frmSettings
         Me.CheckBox1.Font = New System.Drawing.Font("Bernard MT Condensed", 13.77391!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckBox1.Location = New System.Drawing.Point(599, 184)
         Me.CheckBox1.Name = "CheckBox1"
-        Me.CheckBox1.Size = New System.Drawing.Size(55, 30)
+        Me.CheckBox1.Size = New System.Drawing.Size(60, 32)
         Me.CheckBox1.TabIndex = 54
         Me.CheckBox1.Text = "ON"
         Me.CheckBox1.UseVisualStyleBackColor = True
@@ -122,41 +122,35 @@ Partial Class frmSettings
         Me.CheckBox2.Font = New System.Drawing.Font("Bernard MT Condensed", 13.77391!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckBox2.Location = New System.Drawing.Point(599, 253)
         Me.CheckBox2.Name = "CheckBox2"
-        Me.CheckBox2.Size = New System.Drawing.Size(64, 30)
+        Me.CheckBox2.Size = New System.Drawing.Size(70, 32)
         Me.CheckBox2.TabIndex = 55
         Me.CheckBox2.Text = "OFF"
         Me.CheckBox2.UseVisualStyleBackColor = True
         '
-        'TextBox5
+        'Button1
         '
-        Me.TextBox5.BackColor = System.Drawing.Color.Aqua
-        Me.TextBox5.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.TextBox5.Font = New System.Drawing.Font("Bernard MT Condensed", 18.15652!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox5.ForeColor = System.Drawing.Color.Transparent
-        Me.TextBox5.HideSelection = False
-        Me.TextBox5.Location = New System.Drawing.Point(357, 362)
-        Me.TextBox5.Multiline = True
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.ReadOnly = True
-        Me.TextBox5.Size = New System.Drawing.Size(249, 39)
-        Me.TextBox5.TabIndex = 56
-        Me.TextBox5.Text = "Back"
-        Me.TextBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.Button1.BackColor = System.Drawing.Color.SkyBlue
+        Me.Button1.Location = New System.Drawing.Point(361, 361)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(234, 44)
+        Me.Button1.TabIndex = 56
+        Me.Button1.Text = "BACK"
+        Me.Button1.UseVisualStyleBackColor = False
         '
-        'FrmSetting
+        'frmSettings
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.SkyBlue
         Me.ClientSize = New System.Drawing.Size(962, 487)
-        Me.Controls.Add(Me.TextBox5)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.CheckBox2)
         Me.Controls.Add(Me.CheckBox1)
         Me.Controls.Add(Me.TextBox4)
         Me.Controls.Add(Me.TextBox3)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.TextBox2)
-        Me.Name = "FrmSetting"
+        Me.Name = "frmSettings"
         Me.Text = "FrmSetting"
         Me.ResumeLayout(False)
         Me.PerformLayout()
@@ -170,5 +164,5 @@ Partial Class frmSettings
     Friend WithEvents TextBox4 As TextBox
     Friend WithEvents CheckBox1 As CheckBox
     Friend WithEvents CheckBox2 As CheckBox
-    Friend WithEvents TextBox5 As TextBox
+    Friend WithEvents Button1 As Button
 End Class

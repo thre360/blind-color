@@ -69,7 +69,7 @@ Partial Class frmStage2
         Me.Label3.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(644, 393)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(43, 49)
+        Me.Label3.Size = New System.Drawing.Size(39, 46)
         Me.Label3.TabIndex = 42
         Me.Label3.Text = "9"
         '
@@ -80,9 +80,9 @@ Partial Class frmStage2
         Me.Label2.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(644, 305)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(43, 49)
+        Me.Label2.Size = New System.Drawing.Size(39, 46)
         Me.Label2.TabIndex = 41
-        Me.Label2.Text = "2"
+        Me.Label2.Text = "0"
         '
         'Label1
         '
@@ -91,9 +91,9 @@ Partial Class frmStage2
         Me.Label1.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(644, 214)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(43, 49)
+        Me.Label1.Size = New System.Drawing.Size(39, 46)
         Me.Label1.TabIndex = 40
-        Me.Label1.Text = "7"
+        Me.Label1.Text = "6"
         '
         'PictureBox3
         '
@@ -137,7 +137,7 @@ Partial Class frmStage2
         '
         'PictureBox4
         '
-        Me.PictureBox4.Image = Global.PPG_2024.My.Resources.Resources._1
+        Me.PictureBox4.Image = Global.PPG_2024.My.Resources.Resources._2
         Me.PictureBox4.Location = New System.Drawing.Point(44, 110)
         Me.PictureBox4.Name = "PictureBox4"
         Me.PictureBox4.Size = New System.Drawing.Size(305, 283)

@@ -1,11 +1,16 @@
-﻿Public Class frmMulai
+﻿Imports System.Threading
+
+Public Class frmMulai
+    Private settingsThread As Thread
     Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
         Me.Close()
         frmUtama.Show()
     End Sub
 
     Private Sub frmMulai_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        My.Computer.Audio.Play(My.Resources.sound, AudioPlayMode.BackgroundLoop)
+        If frmSettings.CheckBox2.Checked Then
+            My.Computer.Audio.Play(My.Resources.sound, AudioPlayMode.BackgroundLoop)
+        End If
     End Sub
 
     Private Sub Label1_Click(sender As Object, e As EventArgs)
@@ -16,4 +21,18 @@
         Me.Close()
         frmSettings.Show()
     End Sub
+
+    Sub New()
+        InitializeComponent()
+
+        settingsThread = New Thread(AddressOf OpenSettings)
+        settingsThread.IsBackground = True
+        settingsThread.Start()
+    End Sub
+
+    Private Sub OpenSettings()
+        Dim settingsForm As New frmSettings()
+        settingsForm.Show()
+    End Sub
+
 End Class

@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class frmUtama
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class frmUtama
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmUtama))
         Me.Button1 = New System.Windows.Forms.Button()
@@ -33,15 +33,13 @@ Partial Class frmUtama
         Me.Button8 = New System.Windows.Forms.Button()
         Me.Button9 = New System.Windows.Forms.Button()
         Me.Button10 = New System.Windows.Forms.Button()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Button1
         '
         Me.Button1.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button1.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(109, 119)
+        Me.Button1.Location = New System.Drawing.Point(101, 112)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(140, 122)
         Me.Button1.TabIndex = 0
@@ -52,7 +50,7 @@ Partial Class frmUtama
         '
         Me.Button2.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button2.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(259, 119)
+        Me.Button2.Location = New System.Drawing.Point(251, 112)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(140, 122)
         Me.Button2.TabIndex = 1
@@ -63,7 +61,7 @@ Partial Class frmUtama
         '
         Me.Button3.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button3.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(410, 119)
+        Me.Button3.Location = New System.Drawing.Point(402, 112)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(140, 122)
         Me.Button3.TabIndex = 2
@@ -74,7 +72,7 @@ Partial Class frmUtama
         '
         Me.Button4.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button4.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button4.Location = New System.Drawing.Point(562, 119)
+        Me.Button4.Location = New System.Drawing.Point(554, 112)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(140, 122)
         Me.Button4.TabIndex = 3
@@ -85,7 +83,7 @@ Partial Class frmUtama
         '
         Me.Button5.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button5.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button5.Location = New System.Drawing.Point(714, 119)
+        Me.Button5.Location = New System.Drawing.Point(706, 112)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(140, 122)
         Me.Button5.TabIndex = 4
@@ -96,7 +94,7 @@ Partial Class frmUtama
         '
         Me.Button6.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button6.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button6.Location = New System.Drawing.Point(109, 254)
+        Me.Button6.Location = New System.Drawing.Point(101, 247)
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(140, 122)
         Me.Button6.TabIndex = 5
@@ -107,7 +105,7 @@ Partial Class frmUtama
         '
         Me.Button7.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button7.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button7.Location = New System.Drawing.Point(259, 254)
+        Me.Button7.Location = New System.Drawing.Point(251, 247)
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(140, 122)
         Me.Button7.TabIndex = 6
@@ -118,7 +116,7 @@ Partial Class frmUtama
         '
         Me.Button8.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button8.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button8.Location = New System.Drawing.Point(410, 254)
+        Me.Button8.Location = New System.Drawing.Point(402, 247)
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(140, 122)
         Me.Button8.TabIndex = 7
@@ -129,7 +127,7 @@ Partial Class frmUtama
         '
         Me.Button9.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button9.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button9.Location = New System.Drawing.Point(562, 254)
+        Me.Button9.Location = New System.Drawing.Point(554, 247)
         Me.Button9.Name = "Button9"
         Me.Button9.Size = New System.Drawing.Size(140, 122)
         Me.Button9.TabIndex = 8
@@ -140,22 +138,12 @@ Partial Class frmUtama
         '
         Me.Button10.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Button10.Font = New System.Drawing.Font("Bernard MT Condensed", 16.128!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button10.Location = New System.Drawing.Point(714, 254)
+        Me.Button10.Location = New System.Drawing.Point(706, 247)
         Me.Button10.Name = "Button10"
         Me.Button10.Size = New System.Drawing.Size(140, 122)
         Me.Button10.TabIndex = 9
         Me.Button10.Text = "Stage 10"
         Me.Button10.UseVisualStyleBackColor = False
-        '
-        'PictureBox1
-        '
-        Me.PictureBox1.Image = Global.PPG_2024.My.Resources.Resources.settings
-        Me.PictureBox1.Location = New System.Drawing.Point(12, 12)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(54, 50)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox1.TabIndex = 10
-        Me.PictureBox1.TabStop = False
         '
         'frmUtama
         '
@@ -163,7 +151,6 @@ Partial Class frmUtama
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.SkyBlue
         Me.ClientSize = New System.Drawing.Size(962, 487)
-        Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Button10)
         Me.Controls.Add(Me.Button9)
         Me.Controls.Add(Me.Button8)
@@ -179,7 +166,6 @@ Partial Class frmUtama
         Me.Name = "frmUtama"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Blind Color"
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -193,5 +179,4 @@ Partial Class frmUtama
     Friend WithEvents Button8 As Button
     Friend WithEvents Button9 As Button
     Friend WithEvents Button10 As Button
-    Friend WithEvents PictureBox1 As PictureBox
 End Class

@@ -33,6 +33,8 @@ Partial Class frmUtama
         Me.Button8 = New System.Windows.Forms.Button()
         Me.Button9 = New System.Windows.Forms.Button()
         Me.Button10 = New System.Windows.Forms.Button()
+        Me.PictureBox9 = New System.Windows.Forms.PictureBox()
+        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Button1
@@ -145,12 +147,23 @@ Partial Class frmUtama
         Me.Button10.Text = "Stage 10"
         Me.Button10.UseVisualStyleBackColor = False
         '
+        'PictureBox9
+        '
+        Me.PictureBox9.Image = Global.PPG_2024.My.Resources.Resources.Kembali
+        Me.PictureBox9.Location = New System.Drawing.Point(35, 22)
+        Me.PictureBox9.Name = "PictureBox9"
+        Me.PictureBox9.Size = New System.Drawing.Size(43, 48)
+        Me.PictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox9.TabIndex = 52
+        Me.PictureBox9.TabStop = False
+        '
         'frmUtama
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.SkyBlue
         Me.ClientSize = New System.Drawing.Size(962, 487)
+        Me.Controls.Add(Me.PictureBox9)
         Me.Controls.Add(Me.Button10)
         Me.Controls.Add(Me.Button9)
         Me.Controls.Add(Me.Button8)
@@ -166,6 +179,7 @@ Partial Class frmUtama
         Me.Name = "frmUtama"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Blind Color"
+        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -179,4 +193,5 @@ Partial Class frmUtama
     Friend WithEvents Button8 As Button
     Friend WithEvents Button9 As Button
     Friend WithEvents Button10 As Button
+    Friend WithEvents PictureBox9 As PictureBox
 End Class

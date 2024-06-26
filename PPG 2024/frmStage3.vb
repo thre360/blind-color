@@ -92,4 +92,8 @@
         Me.Close()
         frmUtama.Show()
     End Sub
+
+    Private Sub frmStage3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class

@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\blind-color\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|d:\\blind-color\\ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -11,15 +23,11 @@
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|d:\\blind-color\\ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|d:\\blind-color\\ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -27,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|d:\\blind-color\\ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -35,24 +43,32 @@
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|d:\\blind-color\\ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|d:\\blind-color\\ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -67,28 +83,12 @@
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|d:\\blind-color\\ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|d:\\blind-color\\ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|D:\\blind-color\\ppg 2024\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -177,57 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmStage8.vb [Design]",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage8.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage8.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage8.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage8.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-25T16:44:37.059Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frmStage8.vb",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage8.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage8.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage8.vb",
-              "RelativeToolTip": "PPG 2024\\frmStage8.vb",
-              "ViewState": "AQIAADUAAAAAAAAAAAAqwEYAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T11:55:33.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmStage9.vb [Design]",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage9.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage9.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage9.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage9.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-25T16:44:42.002Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmStage9.vb",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage9.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage9.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage9.vb",
-              "RelativeToolTip": "PPG 2024\\frmStage9.vb",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwEYAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T11:55:47.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "frmStage10.vb [Design]",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage10.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage10.vb",
@@ -239,33 +189,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "frmStage10.vb",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage10.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage10.vb",
               "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage10.vb",
               "RelativeToolTip": "PPG 2024\\frmStage10.vb",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwCMAAAAIAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAqwFwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-25T16:45:28.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "frmStage7.vb",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage7.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage7.vb",
               "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage7.vb",
               "RelativeToolTip": "PPG 2024\\frmStage7.vb",
-              "ViewState": "AQIAADAAAAAAAAAAAAAUwEYAAABNAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwFoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-26T11:55:14.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "frmStage7.vb [Design]",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage7.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage7.vb",
@@ -277,7 +227,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "frmUtama.vb [Design]",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmUtama.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmUtama.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmUtama.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T06:12:45.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUtama.vb",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmUtama.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmUtama.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmUtama.vb",
+              "RelativeToolTip": "PPG 2024\\frmUtama.vb",
+              "ViewState": "AQIAACEAAAAAAAAAAAA4wDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T06:41:51.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStage9.vb [Design]",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage9.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage9.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage9.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage9.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T16:44:42.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmStage9.vb",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage9.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage9.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage9.vb",
+              "RelativeToolTip": "PPG 2024\\frmStage9.vb",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T11:55:47.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmStage8.vb",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage8.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage8.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage8.vb",
+              "RelativeToolTip": "PPG 2024\\frmStage8.vb",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T11:55:33.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmStage8.vb [Design]",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage8.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage8.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage8.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage8.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T16:44:37.059Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmStage6.vb",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage6.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage6.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage6.vb",
+              "RelativeToolTip": "PPG 2024\\frmStage6.vb",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwFoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T11:54:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "frmStage6.vb [Design]",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage6.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage6.vb",
@@ -289,7 +327,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "frmStage5.vb",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage5.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage5.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage5.vb",
+              "RelativeToolTip": "PPG 2024\\frmStage5.vb",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T11:54:41.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "frmStage5.vb [Design]",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage5.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage5.vb",
@@ -301,20 +352,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmStage5.vb",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage5.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage5.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage5.vb",
-              "RelativeToolTip": "PPG 2024\\frmStage5.vb",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAkwEYAAABNAAAA",
+              "DocumentIndex": 14,
+              "Title": "frmStage4.vb",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage4.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage4.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage4.vb",
+              "RelativeToolTip": "PPG 2024\\frmStage4.vb",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwFoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T11:54:41.719Z",
+              "WhenOpened": "2024-06-26T11:54:25.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "frmStage4.vb [Design]",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage4.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage4.vb",
@@ -326,20 +377,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmStage4.vb",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage4.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage4.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage4.vb",
-              "RelativeToolTip": "PPG 2024\\frmStage4.vb",
-              "ViewState": "AQIAADMAAAAAAAAAAAAUwEYAAABNAAAA",
+              "DocumentIndex": 16,
+              "Title": "frmStage3.vb",
+              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage3.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage3.vb",
+              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage3.vb",
+              "RelativeToolTip": "PPG 2024\\frmStage3.vb",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAwwGAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T11:54:25.018Z",
+              "WhenOpened": "2024-06-25T16:15:44.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "frmStage3.vb [Design]",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage3.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage3.vb",
@@ -351,19 +402,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "frmStage2.vb [Design]",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage2.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage2.vb",
               "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage2.vb [Design]",
               "RelativeToolTip": "PPG 2024\\frmStage2.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-25T15:27:51.921Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-25T15:27:51.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "frmStage2.vb",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage2.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage2.vb",
@@ -371,25 +421,11 @@
               "RelativeToolTip": "PPG 2024\\frmStage2.vb",
               "ViewState": "AQIAAD4AAAAAAAAAAAAkwFIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-25T15:41:52.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T15:41:52.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmStage6.vb",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage6.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage6.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage6.vb",
-              "RelativeToolTip": "PPG 2024\\frmStage6.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T11:54:53.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "frmStage1.vb",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage1.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage1.vb",
@@ -397,46 +433,18 @@
               "RelativeToolTip": "PPG 2024\\frmStage1.vb",
               "ViewState": "AQIAAEwAAAAAAAAAAAAYwGYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-25T15:30:21.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T15:30:21.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "frmStage1.vb [Design]",
               "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage1.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage1.vb",
               "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage1.vb [Design]",
               "RelativeToolTip": "PPG 2024\\frmStage1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-25T15:27:50.24Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "frmStage3.vb",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmStage3.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage3.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmStage3.vb",
-              "RelativeToolTip": "PPG 2024\\frmStage3.vb",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFwAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-25T16:15:44.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "frmUtama.vb",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmUtama.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmUtama.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmUtama.vb",
-              "RelativeToolTip": "PPG 2024\\frmUtama.vb",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAwCsAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T06:41:51.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T15:27:50.24Z"
             },
             {
               "$type": "Document",
@@ -459,18 +467,6 @@
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmMulai.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-25T15:49:50.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "frmUtama.vb [Design]",
-              "DocumentMoniker": "D:\\blind-color\\PPG 2024\\frmUtama.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmUtama.vb",
-              "ToolTip": "D:\\blind-color\\PPG 2024\\frmUtama.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmUtama.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-26T06:12:45.755Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -535,8 +531,7 @@
               "RelativeToolTip": "PPG 2024\\frmStage1.Designer.vb",
               "ViewState": "AQIAAFcAAAAAAAAAAAAYwAEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-25T15:36:26.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T15:36:26.565Z"
             },
             {
               "$type": "Document",
@@ -625,7 +620,8 @@
               "RelativeToolTip": "PPG 2024\\frmUtama.Designer.vb",
               "ViewState": "AQIAACgAAAAAAAAAAAAQwAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-25T15:05:25.08Z"
+              "WhenOpened": "2024-06-25T15:05:25.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -637,8 +633,7 @@
               "RelativeToolTip": "PPG 2024\\My Project\\Resources.resx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAgwLcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-06-25T08:12:56.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T08:12:56.4Z"
             },
             {
               "$type": "Document",

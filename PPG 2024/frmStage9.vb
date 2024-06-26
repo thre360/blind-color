@@ -88,7 +88,7 @@
         End If
     End Sub
 
-    Private Sub frmStage1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    Private Sub frmStage9_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
 

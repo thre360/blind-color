@@ -56,7 +56,7 @@ Partial Class frmUtama
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(140, 122)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Stage 2"
+        Me.Button2.Text = "Level 2"
         Me.Button2.UseVisualStyleBackColor = False
         '
         'Button3
@@ -67,7 +67,7 @@ Partial Class frmUtama
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(140, 122)
         Me.Button3.TabIndex = 2
-        Me.Button3.Text = "Stage 3"
+        Me.Button3.Text = "Level 3"
         Me.Button3.UseVisualStyleBackColor = False
         '
         'Button4
@@ -78,7 +78,7 @@ Partial Class frmUtama
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(140, 122)
         Me.Button4.TabIndex = 3
-        Me.Button4.Text = "Stage 4"
+        Me.Button4.Text = "Level 4"
         Me.Button4.UseVisualStyleBackColor = False
         '
         'Button5
@@ -89,7 +89,7 @@ Partial Class frmUtama
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(140, 122)
         Me.Button5.TabIndex = 4
-        Me.Button5.Text = "Stage 5"
+        Me.Button5.Text = "Level 5"
         Me.Button5.UseVisualStyleBackColor = False
         '
         'Button6
@@ -100,7 +100,7 @@ Partial Class frmUtama
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(140, 122)
         Me.Button6.TabIndex = 5
-        Me.Button6.Text = "Stage 6"
+        Me.Button6.Text = "Level 6"
         Me.Button6.UseVisualStyleBackColor = False
         '
         'Button7
@@ -111,7 +111,7 @@ Partial Class frmUtama
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(140, 122)
         Me.Button7.TabIndex = 6
-        Me.Button7.Text = "Stage 7"
+        Me.Button7.Text = "Level 7"
         Me.Button7.UseVisualStyleBackColor = False
         '
         'Button8
@@ -122,7 +122,7 @@ Partial Class frmUtama
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(140, 122)
         Me.Button8.TabIndex = 7
-        Me.Button8.Text = "Stage 8"
+        Me.Button8.Text = "Level 8"
         Me.Button8.UseVisualStyleBackColor = False
         '
         'Button9
@@ -133,7 +133,7 @@ Partial Class frmUtama
         Me.Button9.Name = "Button9"
         Me.Button9.Size = New System.Drawing.Size(140, 122)
         Me.Button9.TabIndex = 8
-        Me.Button9.Text = "Stage 9"
+        Me.Button9.Text = "Level 9"
         Me.Button9.UseVisualStyleBackColor = False
         '
         'Button10
@@ -144,7 +144,7 @@ Partial Class frmUtama
         Me.Button10.Name = "Button10"
         Me.Button10.Size = New System.Drawing.Size(140, 122)
         Me.Button10.TabIndex = 9
-        Me.Button10.Text = "Stage 10"
+        Me.Button10.Text = "Level 10"
         Me.Button10.UseVisualStyleBackColor = False
         '
         'PictureBox9

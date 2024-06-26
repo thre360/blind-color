@@ -85,9 +85,9 @@ Partial Class frmStage10
         Me.Label3.AutoSize = True
         Me.Label3.BackColor = System.Drawing.Color.FromArgb(CType(CType(127, Byte), Integer), CType(CType(127, Byte), Integer), CType(CType(127, Byte), Integer))
         Me.Label3.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(644, 393)
+        Me.Label3.Location = New System.Drawing.Point(644, 305)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(39, 46)
+        Me.Label3.Size = New System.Drawing.Size(43, 49)
         Me.Label3.TabIndex = 44
         Me.Label3.Text = "3"
         '
@@ -96,9 +96,9 @@ Partial Class frmStage10
         Me.Label2.AutoSize = True
         Me.Label2.BackColor = System.Drawing.Color.FromArgb(CType(CType(127, Byte), Integer), CType(CType(127, Byte), Integer), CType(CType(127, Byte), Integer))
         Me.Label2.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(644, 305)
+        Me.Label2.Location = New System.Drawing.Point(644, 395)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(39, 46)
+        Me.Label2.Size = New System.Drawing.Size(43, 49)
         Me.Label2.TabIndex = 43
         Me.Label2.Text = "9"
         '
@@ -109,7 +109,7 @@ Partial Class frmStage10
         Me.Label1.Font = New System.Drawing.Font("Bernard MT Condensed", 24.192!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(644, 214)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(39, 46)
+        Me.Label1.Size = New System.Drawing.Size(43, 49)
         Me.Label1.TabIndex = 42
         Me.Label1.Text = "8"
         '
@@ -213,16 +213,16 @@ Partial Class frmStage10
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.PictureBox3)
         Me.Controls.Add(Me.TextBox1)
-        Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.PictureBox7)
         Me.Controls.Add(Me.PictureBox6)
         Me.Controls.Add(Me.PictureBox5)
         Me.Controls.Add(Me.PictureBox4)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.PictureBox8)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.PictureBox7)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmStage10"
         Me.Text = "Blind Color"

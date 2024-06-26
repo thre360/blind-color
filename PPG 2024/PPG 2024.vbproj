@@ -130,12 +130,6 @@
     <Compile Include="frmStage8.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmStage9.Designer.vb">
-      <DependentUpon>frmStage9.vb</DependentUpon>
-    </Compile>
-    <Compile Include="frmStage9.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="frmStage10.Designer.vb">
       <DependentUpon>frmStage10.vb</DependentUpon>
     </Compile>
@@ -212,6 +206,12 @@
       <DependentUpon>frmStage3.vb</DependentUpon>
     </Compile>
     <Compile Include="frmStage3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStage9.Designer.vb">
+      <DependentUpon>frmStage9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStage9.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmSwapGambar.Designer.vb">
@@ -341,8 +341,22 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\10.png" />
+    <None Include="Resources\9.png" />
+    <None Include="Resources\8.png" />
+    <None Include="Resources\7.png" />
+    <None Include="Resources\6.png" />
+    <None Include="Resources\5.png" />
+    <None Include="Resources\4.png" />
     <None Include="bin\play.png" />
     <None Include="bin\info.png" />
+    <Content Include="bin\10.png" />
+    <Content Include="bin\4.png" />
+    <Content Include="bin\5.png" />
+    <Content Include="bin\6.png" />
+    <Content Include="bin\7.png" />
+    <Content Include="bin\8.png" />
+    <Content Include="bin\9.png" />
     <Content Include="bin\settings.png" />
     <Content Include="logo.ico" />
     <None Include="Resources\bgSound.wav" />

@@ -98,6 +98,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="frmLose.Designer.vb">
+      <DependentUpon>frmLose.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLose.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmCara.Designer.vb">
       <DependentUpon>frmCara.vb</DependentUpon>
     </Compile>
@@ -255,6 +261,12 @@
       <DependentUpon>frmUtama.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmWin.Designer.vb">
+      <DependentUpon>frmWin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWin.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -274,6 +286,9 @@
     <Compile Include="temp.vb" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmLose.resx">
+      <DependentUpon>frmLose.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmCara.resx">
       <DependentUpon>frmCara.vb</DependentUpon>
     </EmbeddedResource>
@@ -352,6 +367,9 @@
     <EmbeddedResource Include="frmUtama.resx">
       <DependentUpon>frmUtama.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmWin.resx">
+      <DependentUpon>frmWin.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -372,6 +390,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Next_win-removebg-preview %281%29.png" />
+    <None Include="Resources\backLose-removebg-preview1.png" />
+    <None Include="Resources\download-removebg-preview.png" />
+    <None Include="Resources\WhatsApp Image 2024-06-26 at 20.08.33_28025de91.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-06-26 at 20.08.33_28025de9.jpg" />
+    <None Include="Resources\backLose-removebg-preview.png" />
+    <None Include="Resources\restartlose-removebg-preview.png" />
+    <None Include="Resources\images-removebg-preview.png" />
     <None Include="Resources\102.png" />
     <None Include="Resources\92.png" />
     <None Include="Resources\82.png" />

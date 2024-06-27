@@ -127,6 +127,16 @@ PPG 2024
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PPG_2024.My.Resources.Resources.backLose_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.backLose_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PPG_2024.My.Resources.Resources.bg">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -152,7 +162,17 @@ PPG 2024
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PPG_2024.My.Resources.Resources.download_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PPG_2024.My.Resources.Resources.hatiempty">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.images_removebg_preview">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -168,6 +188,11 @@ PPG 2024
 </summary>
 </member>
 <member name="P:PPG_2024.My.Resources.Resources.loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.Next_win_removebg_preview__1_">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -192,6 +217,11 @@ PPG 2024
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PPG_2024.My.Resources.Resources.restartlose_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PPG_2024.My.Resources.Resources.sad_gif">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -212,7 +242,17 @@ PPG 2024
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PPG_2024.My.Resources.Resources.WhatsApp_Image_2024_06_26_at_20_08_33_28025de9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PPG_2024.My.Resources.Resources.WhatsApp_Image_2024_06_26_at_20_08_41_d05948cc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PPG_2024.My.Resources.Resources.WhatsApp_Image_2024_06_26_at_20_081">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

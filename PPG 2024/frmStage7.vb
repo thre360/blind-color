@@ -26,14 +26,13 @@
         Else
             Me.Controls.Remove(PictureBox2)
             isPictureBox2Visible = False
-            MessageBox.Show("ANDA KALAH")
             Me.Close()
-            frmUtama.Show()
+            frmLose.Show()
         End If
     End Sub
 
     Private Sub PictureBox5_Click(sender As Object, e As EventArgs) Handles PictureBox5.Click
-        MessageBox.Show("Jawaban anda benar")
+        frmWin.Show()
         Me.Close()
         frmStage8.Show()
     End Sub
@@ -48,9 +47,8 @@
         Else
             Me.Controls.Remove(PictureBox2)
             isPictureBox2Visible = False
-            MessageBox.Show("ANDA KALAH")
             Me.Close()
-            frmUtama.Show()
+            frmLose.Show()
         End If
     End Sub
 
@@ -64,14 +62,13 @@
         Else
             Me.Controls.Remove(PictureBox2)
             isPictureBox2Visible = False
-            MessageBox.Show("ANDA KALAH")
             Me.Close()
-            frmUtama.Show()
+            frmLose.Show()
         End If
     End Sub
 
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
-        MessageBox.Show("Jawaban anda benar")
+        frmWin.Show()
         Me.Close()
         frmStage8.Show()
     End Sub
@@ -86,9 +83,8 @@
         Else
             Me.Controls.Remove(PictureBox2)
             isPictureBox2Visible = False
-            MessageBox.Show("ANDA KALAH")
             Me.Close()
-            frmUtama.Show()
+            frmLose.Show()
         End If
     End Sub
 

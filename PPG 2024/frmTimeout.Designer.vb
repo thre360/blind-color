@@ -50,7 +50,7 @@ Partial Class frmTimeout
         Me.Label1.ForeColor = System.Drawing.Color.MintCream
         Me.Label1.Location = New System.Drawing.Point(184, 341)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(243, 55)
+        Me.Label1.Size = New System.Drawing.Size(226, 51)
         Me.Label1.TabIndex = 1
         Me.Label1.Text = "Waktu Habis"
         '

@@ -138,6 +138,14 @@
         End If
     End Sub
 
+    Private Sub lblWaktu_Click(sender As Object, e As EventArgs) Handles lblWaktu.Click
+
+    End Sub
+
+    Private Sub lblPertanyaan_Click(sender As Object, e As EventArgs) Handles lblPertanyaan.Click
+
+    End Sub
+
     Private Sub TPertanyaan2_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TPertanyaan2.Tick
         Dim ts As TimeSpan = TargetDT2.Subtract(DateTime.Now)
         If ts.TotalMilliseconds > 0 Then

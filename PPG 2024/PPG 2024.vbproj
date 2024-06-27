@@ -94,6 +94,12 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmLose.Designer.vb">
+      <DependentUpon>frmLose.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLose.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmSettings.Designer.vb">
       <DependentUpon>frmSettings.vb</DependentUpon>
     </Compile>
@@ -365,6 +371,7 @@
     <None Include="bin\bgmain.png" />
     <Content Include="bin\settings.png" />
     <None Include="bin\WhatsApp Image 2024-06-26 at 20.08.41_d05948cc.jpg" />
+    <None Include="bin\text.png" />
     <Content Include="logo.ico" />
     <None Include="Resources\bgSound.wav" />
     <None Include="bin\Apel1.png" />

@@ -202,6 +202,11 @@ PPG 2024
   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
 </summary>
 </member>
+<member name="P:PPG_2024.My.Resources.Resources.text">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PPG_2024.My.Resources.Resources.WhatsApp_Image_2024_06_26_at_20_08_41_d05948cc">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

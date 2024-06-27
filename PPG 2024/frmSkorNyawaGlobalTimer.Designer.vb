@@ -46,7 +46,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(514, 47)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(50, 17)
+        Me.Label1.Size = New System.Drawing.Size(49, 16)
         Me.Label1.TabIndex = 14
         Me.Label1.Text = "Nyawa"
         '
@@ -64,7 +64,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.rbD.AutoSize = True
         Me.rbD.Location = New System.Drawing.Point(311, 134)
         Me.rbD.Name = "rbD"
-        Me.rbD.Size = New System.Drawing.Size(39, 21)
+        Me.rbD.Size = New System.Drawing.Size(38, 20)
         Me.rbD.TabIndex = 4
         Me.rbD.TabStop = True
         Me.rbD.Text = "D"
@@ -90,7 +90,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.rbC.AutoSize = True
         Me.rbC.Location = New System.Drawing.Point(311, 84)
         Me.rbC.Name = "rbC"
-        Me.rbC.Size = New System.Drawing.Size(38, 21)
+        Me.rbC.Size = New System.Drawing.Size(37, 20)
         Me.rbC.TabIndex = 3
         Me.rbC.TabStop = True
         Me.rbC.Text = "C"
@@ -101,7 +101,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.rbB.AutoSize = True
         Me.rbB.Location = New System.Drawing.Point(41, 134)
         Me.rbB.Name = "rbB"
-        Me.rbB.Size = New System.Drawing.Size(38, 21)
+        Me.rbB.Size = New System.Drawing.Size(37, 20)
         Me.rbB.TabIndex = 2
         Me.rbB.TabStop = True
         Me.rbB.Text = "B"
@@ -112,7 +112,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.rbA.AutoSize = True
         Me.rbA.Location = New System.Drawing.Point(41, 84)
         Me.rbA.Name = "rbA"
-        Me.rbA.Size = New System.Drawing.Size(38, 21)
+        Me.rbA.Size = New System.Drawing.Size(37, 20)
         Me.rbA.TabIndex = 1
         Me.rbA.TabStop = True
         Me.rbA.Text = "A"
@@ -123,7 +123,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.lblPertanyaan.AutoSize = True
         Me.lblPertanyaan.Location = New System.Drawing.Point(38, 49)
         Me.lblPertanyaan.Name = "lblPertanyaan"
-        Me.lblPertanyaan.Size = New System.Drawing.Size(85, 17)
+        Me.lblPertanyaan.Size = New System.Drawing.Size(79, 16)
         Me.lblPertanyaan.TabIndex = 0
         Me.lblPertanyaan.Text = "Pertanyaan "
         '
@@ -132,7 +132,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.lblScore.AutoSize = True
         Me.lblScore.Location = New System.Drawing.Point(623, 79)
         Me.lblScore.Name = "lblScore"
-        Me.lblScore.Size = New System.Drawing.Size(76, 17)
+        Me.lblScore.Size = New System.Drawing.Size(73, 16)
         Me.lblScore.TabIndex = 12
         Me.lblScore.Text = "NIlai Score"
         '
@@ -141,7 +141,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.lblNyawa.AutoSize = True
         Me.lblNyawa.Location = New System.Drawing.Point(514, 79)
         Me.lblNyawa.Name = "lblNyawa"
-        Me.lblNyawa.Size = New System.Drawing.Size(81, 17)
+        Me.lblNyawa.Size = New System.Drawing.Size(79, 16)
         Me.lblNyawa.TabIndex = 15
         Me.lblNyawa.Text = "Nilai Nyawa"
         '
@@ -150,7 +150,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(623, 47)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(45, 17)
+        Me.Label2.Size = New System.Drawing.Size(43, 16)
         Me.Label2.TabIndex = 13
         Me.Label2.Text = "Score"
         '
@@ -159,7 +159,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.Label3.AutoSize = True
         Me.Label3.Location = New System.Drawing.Point(629, 272)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(48, 17)
+        Me.Label3.Size = New System.Drawing.Size(45, 16)
         Me.Label3.TabIndex = 18
         Me.Label3.Text = "Waktu"
         '
@@ -169,7 +169,7 @@ Partial Class frmSkorNyawaGlobalTimer
         Me.lblWaktu.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblWaktu.Location = New System.Drawing.Point(612, 329)
         Me.lblWaktu.Name = "lblWaktu"
-        Me.lblWaktu.Size = New System.Drawing.Size(87, 32)
+        Me.lblWaktu.Size = New System.Drawing.Size(87, 33)
         Me.lblWaktu.TabIndex = 17
         Me.lblWaktu.Text = "00:00"
         '

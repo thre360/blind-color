@@ -36,7 +36,7 @@ Partial Class frmLoading
         'PictureBox1
         '
         Me.PictureBox1.Image = Global.PPG_2024.My.Resources.Resources.loading
-        Me.PictureBox1.Location = New System.Drawing.Point(127, 59)
+        Me.PictureBox1.Location = New System.Drawing.Point(121, 59)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(358, 339)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage

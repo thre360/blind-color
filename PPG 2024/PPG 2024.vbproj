@@ -74,6 +74,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml" />
@@ -94,10 +97,11 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmLose.Designer.vb">
-      <DependentUpon>frmLose.vb</DependentUpon>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="frmCara.Designer.vb">
+      <DependentUpon>frmCara.vb</DependentUpon>
     </Compile>
-    <Compile Include="frmLose.vb">
+    <Compile Include="frmCara.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmSettings.Designer.vb">
@@ -232,6 +236,12 @@
     <Compile Include="frmTentang.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmTimeout.Designer.vb">
+      <DependentUpon>frmTimeout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimeout.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmTxtBox.Designer.vb">
       <DependentUpon>frmTxtBox.vb</DependentUpon>
     </Compile>
@@ -264,6 +274,9 @@
     <Compile Include="temp.vb" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmCara.resx">
+      <DependentUpon>frmCara.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMulai.resx">
       <DependentUpon>frmMulai.vb</DependentUpon>
     </EmbeddedResource>
@@ -330,6 +343,9 @@
     <EmbeddedResource Include="frmTentang.resx">
       <DependentUpon>frmTentang.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmTimeout.resx">
+      <DependentUpon>frmTimeout.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmTxtBox.resx">
       <DependentUpon>frmTxtBox.vb</DependentUpon>
     </EmbeddedResource>
@@ -369,6 +385,7 @@
     <None Include="bin\blank.png" />
     <None Include="bin\bg.png" />
     <None Include="bin\bgmain.png" />
+    <None Include="bin\sad-gif.gif" />
     <Content Include="bin\settings.png" />
     <None Include="bin\WhatsApp Image 2024-06-26 at 20.08.41_d05948cc.jpg" />
     <None Include="bin\text.png" />

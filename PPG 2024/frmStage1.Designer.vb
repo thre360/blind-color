@@ -211,7 +211,7 @@ Partial Class frmStage1
         Me.Label6.AutoSize = True
         Me.Label6.BackColor = System.Drawing.Color.Transparent
         Me.Label6.Font = New System.Drawing.Font("Bernard MT Condensed", 12.096!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(857, 85)
+        Me.Label6.Location = New System.Drawing.Point(861, 85)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(58, 25)
         Me.Label6.TabIndex = 40
@@ -222,7 +222,7 @@ Partial Class frmStage1
         Me.Label7.AutoSize = True
         Me.Label7.BackColor = System.Drawing.Color.Transparent
         Me.Label7.Font = New System.Drawing.Font("Bernard MT Condensed", 12.096!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(762, 85)
+        Me.Label7.Location = New System.Drawing.Point(766, 85)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(69, 25)
         Me.Label7.TabIndex = 41

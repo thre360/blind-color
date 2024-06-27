@@ -34,6 +34,7 @@ Partial Class frmUtama
         Me.Button9 = New System.Windows.Forms.Button()
         Me.Button10 = New System.Windows.Forms.Button()
         Me.PictureBox9 = New System.Windows.Forms.PictureBox()
+        Me.Label1 = New System.Windows.Forms.Label()
         CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -158,6 +159,17 @@ Partial Class frmUtama
         Me.PictureBox9.TabIndex = 52
         Me.PictureBox9.TabStop = False
         '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.BackColor = System.Drawing.Color.Transparent
+        Me.Label1.Font = New System.Drawing.Font("Bernard MT Condensed", 17.856!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(87, 30)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(182, 37)
+        Me.Label1.TabIndex = 53
+        Me.Label1.Text = "Cara Bermain"
+        '
         'frmUtama
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
@@ -166,6 +178,7 @@ Partial Class frmUtama
         Me.BackgroundImage = Global.PPG_2024.My.Resources.Resources.bgmain
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(962, 487)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.PictureBox9)
         Me.Controls.Add(Me.Button10)
         Me.Controls.Add(Me.Button9)
@@ -185,6 +198,7 @@ Partial Class frmUtama
         Me.Text = "Blind Color"
         CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents Button1 As System.Windows.Forms.Button
@@ -198,4 +212,5 @@ Partial Class frmUtama
     Friend WithEvents Button9 As Button
     Friend WithEvents Button10 As Button
     Friend WithEvents PictureBox9 As PictureBox
+    Friend WithEvents Label1 As Label
 End Class

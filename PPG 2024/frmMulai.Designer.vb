@@ -48,7 +48,7 @@ Partial Class frmMulai
         '
         Me.PictureBox2.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox2.Image = Global.PPG_2024.My.Resources.Resources.play
-        Me.PictureBox2.Location = New System.Drawing.Point(556, 279)
+        Me.PictureBox2.Location = New System.Drawing.Point(628, 278)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(134, 134)
         Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -59,7 +59,7 @@ Partial Class frmMulai
         '
         Me.PictureBox1.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox1.Image = Global.PPG_2024.My.Resources.Resources.settings
-        Me.PictureBox1.Location = New System.Drawing.Point(567, 100)
+        Me.PictureBox1.Location = New System.Drawing.Point(639, 99)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(113, 107)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -70,7 +70,7 @@ Partial Class frmMulai
         '
         Me.PictureBox4.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox4.Image = Global.PPG_2024.My.Resources.Resources.text
-        Me.PictureBox4.Location = New System.Drawing.Point(95, 50)
+        Me.PictureBox4.Location = New System.Drawing.Point(128, 50)
         Me.PictureBox4.Name = "PictureBox4"
         Me.PictureBox4.Size = New System.Drawing.Size(331, 392)
         Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage

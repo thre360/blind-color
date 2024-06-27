@@ -92,16 +92,39 @@
         End If
     End Sub
 
-    Private Sub frmStage8_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
-    End Sub
-
-    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs)
-
-    End Sub
 
     Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
         Me.Close()
         frmUtama.Show()
+    End Sub
+
+    Private WithEvents stage1Timer As New Timer
+
+    Private targetDT As DateTime = DateTime.Now
+
+    Private remainingTime As TimeSpan
+
+    Private Sub frmStage8_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Timer1.Start()
+        ResetTimer()
+    End Sub
+
+    Public Sub ResetTimer()
+        targetDT = DateTime.Now
+        remainingTime = TimeSpan.Zero
+        Label6.Text = remainingTime.ToString("mm\:ss")
+        stage1Timer.Start()
+    End Sub
+
+    Private Sub stage8Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+        remainingTime = targetDT.AddSeconds(60).Subtract(DateTime.Now)
+        If remainingTime.TotalMilliseconds > 0 Then
+            Label6.Text = remainingTime.ToString("mm\:ss")
+        Else
+            stage1Timer.Stop()
+            Label6.Text = "00:00"
+            Me.Close()
+            frmTimeout.Show()
+        End If
     End Sub
 End Class

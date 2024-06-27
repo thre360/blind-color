@@ -93,6 +93,15 @@
         End If
     End Sub
 
+    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
+        Me.Close()
+        frmUtama.Show()
+    End Sub
+
     Private WithEvents stage1Timer As New Timer
 
     Private targetDT As DateTime = DateTime.Now
@@ -110,32 +119,6 @@
         Label6.Text = remainingTime.ToString("mm\:ss")
         stage1Timer.Start()
     End Sub
-
-    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs)
-
-    End Sub
-
-    Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
-        Me.Close()
-        frmUtama.Show()
-    End Sub
-
-    Private Sub PictureBox3_Click_1(sender As Object, e As EventArgs) Handles PictureBox3.Click
-
-    End Sub
-
-    Private Sub PictureBox10_Click(sender As Object, e As EventArgs)
-
-    End Sub
-
-    Private Sub Label4_Click(sender As Object, e As EventArgs) Handles Label4.Click
-
-    End Sub
-
-    Private Sub Label6_Click(sender As Object, e As EventArgs) Handles Label6.Click
-
-    End Sub
-
     Private Sub stage1Timer_Tick(sender As Object, e As EventArgs) Handles stage1Timer.Tick
         remainingTime = targetDT.AddSeconds(60).Subtract(DateTime.Now)
         If remainingTime.TotalMilliseconds > 0 Then
@@ -144,7 +127,7 @@
             stage1Timer.Stop()
             Label6.Text = "00:00"
             Me.Close()
-            frmLose.Show()
+            frmTimeout.Show()
         End If
     End Sub
 End Class

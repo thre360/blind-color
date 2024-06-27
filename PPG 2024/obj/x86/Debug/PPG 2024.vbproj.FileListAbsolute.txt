@@ -111,3 +111,5 @@ C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.fr
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmSettings.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmTentang.resources
 C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmTentang.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmCara.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmTimeout.resources

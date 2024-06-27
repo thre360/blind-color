@@ -38,4 +38,9 @@ Public Class frmMulai
     Private Sub Label5_Click(sender As Object, e As EventArgs) Handles Label5.Click
 
     End Sub
+
+    Private Sub PictureBox3_Click(sender As Object, e As EventArgs) Handles PictureBox3.Click
+        Me.Close()
+        frmTentang.Show()
+    End Sub
 End Class

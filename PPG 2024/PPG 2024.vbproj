@@ -220,6 +220,12 @@
     <Compile Include="frmSwapGambar.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmTentang.Designer.vb">
+      <DependentUpon>frmTentang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTentang.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmTxtBox.Designer.vb">
       <DependentUpon>frmTxtBox.vb</DependentUpon>
     </Compile>
@@ -314,6 +320,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmSwapGambar.resx">
       <DependentUpon>frmSwapGambar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTentang.resx">
+      <DependentUpon>frmTentang.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTxtBox.resx">
       <DependentUpon>frmTxtBox.vb</DependentUpon>

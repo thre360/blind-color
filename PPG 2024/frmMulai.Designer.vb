@@ -73,7 +73,7 @@ Partial Class frmMulai
         Me.Label5.ForeColor = System.Drawing.Color.OrangeRed
         Me.Label5.Location = New System.Drawing.Point(183, 77)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(608, 99)
+        Me.Label5.Size = New System.Drawing.Size(565, 91)
         Me.Label5.TabIndex = 40
         Me.Label5.Text = "TEST BUTA WARNA"
         '

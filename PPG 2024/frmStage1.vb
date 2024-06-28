@@ -1,15 +1,18 @@
 ﻿Public Class frmStage1
 
+    Private score As Integer = 0  ' Stores the current score
+    Private totalStages As Integer = 10  ' Number of total stages (modify as needed)
+    Private currentStage As Integer = 1
     Private Sub PictureBox2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        MessageBox.Show("Jawaban anda benar")
+
     End Sub
 
     Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        MessageBox.Show("Jawaban anda salah")
+
     End Sub
 
     Private Sub PictureBox3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        MessageBox.Show("Jawaban anda salah")
+
     End Sub
 
     Private isPictureBox3Visible As Boolean = True
@@ -33,9 +36,8 @@
     End Sub
 
     Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
-        frmWin.ShowDialog()
         Me.Close()
-        frmStage2.Show()
+        frmWin.Show()
     End Sub
 
     Private Sub PictureBox6_Click(sender As Object, e As EventArgs) Handles PictureBox6.Click
@@ -124,5 +126,9 @@
             Me.Close()
             frmTimeout.Show()
         End If
+    End Sub
+
+    Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+
     End Sub
 End Class

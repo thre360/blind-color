@@ -1,14 +1,14 @@
 ﻿Public Class frmStage2
     Private Sub PictureBox2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        MessageBox.Show("Jawaban anda benar")
+
     End Sub
 
     Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        MessageBox.Show("Jawaban anda salah")
+
     End Sub
 
     Private Sub PictureBox3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        MessageBox.Show("Jawaban anda salah")
+
     End Sub
 
     Private isPictureBox3Visible As Boolean = True
@@ -68,9 +68,8 @@
     End Sub
 
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
-        frmWin.ShowDialog()
         Me.Close()
-        frmStage3.Show()
+        frmWin.Show()
     End Sub
 
     Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click

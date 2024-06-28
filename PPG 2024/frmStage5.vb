@@ -32,9 +32,8 @@
     End Sub
 
     Private Sub PictureBox6_Click(sender As Object, e As EventArgs) Handles PictureBox6.Click
-        frmWin.Show()
         Me.Close()
-        frmStage6.Show()
+        frmWin.Show()
     End Sub
 
     Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
@@ -68,9 +67,8 @@
     End Sub
 
     Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click
-        frmWin.Show()
         Me.Close()
-        frmStage6.Show()
+        frmWin.Show()
     End Sub
 
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click

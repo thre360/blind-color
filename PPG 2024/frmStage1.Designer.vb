@@ -206,6 +206,9 @@ Partial Class frmStage1
         Me.Label5.TabIndex = 39
         Me.Label5.Text = "Level 1"
         '
+        'Timer1
+        '
+        '
         'Label6
         '
         Me.Label6.AutoSize = True

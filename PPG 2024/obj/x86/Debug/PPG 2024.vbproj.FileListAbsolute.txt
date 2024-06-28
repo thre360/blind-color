@@ -117,3 +117,5 @@ D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmCara.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmTimeout.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmLose.resources
 D:\blind-color\PPG 2024\obj\x86\Debug\PPG_2024.frmWin.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmLose.resources
+C:\Users\LENOVO\Downloads\Compressed\PPG 2024\PPG 2024\obj\x86\Debug\PPG_2024.frmWin.resources

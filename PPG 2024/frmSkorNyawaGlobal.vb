@@ -96,4 +96,16 @@
         rbC.Checked = False
         rbD.Checked = False
     End Sub
+
+    Private Sub rbC_CheckedChanged(sender As Object, e As EventArgs) Handles rbC.CheckedChanged
+
+    End Sub
+
+    Private Sub rbA_CheckedChanged(sender As Object, e As EventArgs) Handles rbA.CheckedChanged
+
+    End Sub
+
+    Private Sub lblPertanyaan_Click(sender As Object, e As EventArgs) Handles lblPertanyaan.Click
+
+    End Sub
 End Class

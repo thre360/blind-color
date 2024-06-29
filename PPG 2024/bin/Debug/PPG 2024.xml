@@ -162,6 +162,11 @@ PPG 2024
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PPG_2024.My.Resources.Resources.check">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PPG_2024.My.Resources.Resources.download_removebg_preview">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

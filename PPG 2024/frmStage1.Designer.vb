@@ -41,6 +41,8 @@ Partial Class frmStage1
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
+        Me.lblScore = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
         CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -206,9 +208,6 @@ Partial Class frmStage1
         Me.Label5.TabIndex = 39
         Me.Label5.Text = "Level 1"
         '
-        'Timer1
-        '
-        '
         'Label6
         '
         Me.Label6.AutoSize = True
@@ -231,6 +230,28 @@ Partial Class frmStage1
         Me.Label7.TabIndex = 41
         Me.Label7.Text = "Timer :"
         '
+        'lblScore
+        '
+        Me.lblScore.AutoSize = True
+        Me.lblScore.BackColor = System.Drawing.Color.Transparent
+        Me.lblScore.Font = New System.Drawing.Font("Bernard MT Condensed", 12.096!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblScore.Location = New System.Drawing.Point(865, 120)
+        Me.lblScore.Name = "lblScore"
+        Me.lblScore.Size = New System.Drawing.Size(54, 25)
+        Me.lblScore.TabIndex = 42
+        Me.lblScore.Text = "Score"
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.BackColor = System.Drawing.Color.Transparent
+        Me.Label8.Font = New System.Drawing.Font("Bernard MT Condensed", 12.096!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.Location = New System.Drawing.Point(766, 120)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(65, 25)
+        Me.Label8.TabIndex = 43
+        Me.Label8.Text = "Score :"
+        '
         'frmStage1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
@@ -239,6 +260,8 @@ Partial Class frmStage1
         Me.BackgroundImage = Global.PPG_2024.My.Resources.Resources.bg
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(962, 487)
+        Me.Controls.Add(Me.Label8)
+        Me.Controls.Add(Me.lblScore)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.PictureBox9)
@@ -292,4 +315,6 @@ Partial Class frmStage1
     Friend WithEvents Timer1 As Timer
     Friend WithEvents Label6 As Label
     Friend WithEvents Label7 As Label
+    Friend WithEvents lblScore As Label
+    Friend WithEvents Label8 As Label
 End Class

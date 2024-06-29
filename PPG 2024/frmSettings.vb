@@ -11,13 +11,6 @@ Public Class frmSettings
         player = New SoundPlayer("sound.wav")
     End Sub
 
-    Private Sub CheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox1.CheckedChanged
-        If CheckBox1.Checked Then
-            CheckBox1.Text = "ON"
-        Else
-            CheckBox1.Text = "OFF"
-        End If
-    End Sub
 
     Private Sub CheckBox2_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox2.CheckedChanged
         If CheckBox2.Checked Then

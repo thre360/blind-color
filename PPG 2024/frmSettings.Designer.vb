@@ -27,11 +27,9 @@ Partial Class frmSettings
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.ContextMenuStrip1 = New System.Windows.Forms.ContextMenuStrip(Me.components)
-        Me.CheckBox1 = New System.Windows.Forms.CheckBox()
         Me.CheckBox2 = New System.Windows.Forms.CheckBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Label5 = New System.Windows.Forms.Label()
-        Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
@@ -73,24 +71,12 @@ Partial Class frmSettings
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
         Me.ContextMenuStrip1.Size = New System.Drawing.Size(61, 4)
         '
-        'CheckBox1
-        '
-        Me.CheckBox1.AutoSize = True
-        Me.CheckBox1.BackColor = System.Drawing.Color.PaleTurquoise
-        Me.CheckBox1.Font = New System.Drawing.Font("Bernard MT Condensed", 13.77391!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CheckBox1.Location = New System.Drawing.Point(599, 184)
-        Me.CheckBox1.Name = "CheckBox1"
-        Me.CheckBox1.Size = New System.Drawing.Size(60, 32)
-        Me.CheckBox1.TabIndex = 54
-        Me.CheckBox1.Text = "ON"
-        Me.CheckBox1.UseVisualStyleBackColor = False
-        '
         'CheckBox2
         '
         Me.CheckBox2.AutoSize = True
         Me.CheckBox2.BackColor = System.Drawing.Color.PaleTurquoise
         Me.CheckBox2.Font = New System.Drawing.Font("Bernard MT Condensed", 13.77391!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CheckBox2.Location = New System.Drawing.Point(599, 253)
+        Me.CheckBox2.Location = New System.Drawing.Point(592, 230)
         Me.CheckBox2.Name = "CheckBox2"
         Me.CheckBox2.Size = New System.Drawing.Size(70, 32)
         Me.CheckBox2.TabIndex = 55
@@ -119,23 +105,12 @@ Partial Class frmSettings
         Me.Label5.TabIndex = 57
         Me.Label5.Text = "SETTINGS"
         '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.BackColor = System.Drawing.Color.PaleTurquoise
-        Me.Label1.Font = New System.Drawing.Font("Bernard MT Condensed", 17.856!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(294, 179)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(89, 37)
-        Me.Label1.TabIndex = 58
-        Me.Label1.Text = "Sound"
-        '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.BackColor = System.Drawing.Color.PaleTurquoise
         Me.Label2.Font = New System.Drawing.Font("Bernard MT Condensed", 17.856!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(300, 249)
+        Me.Label2.Location = New System.Drawing.Point(293, 226)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(80, 37)
         Me.Label2.TabIndex = 59
@@ -152,9 +127,7 @@ Partial Class frmSettings
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.CheckBox2)
-        Me.Controls.Add(Me.CheckBox1)
         Me.Controls.Add(Me.TextBox1)
-        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.TextBox2)
         Me.DoubleBuffered = True
@@ -170,10 +143,8 @@ Partial Class frmSettings
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents TextBox2 As TextBox
     Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
-    Friend WithEvents CheckBox1 As CheckBox
     Friend WithEvents CheckBox2 As CheckBox
     Friend WithEvents Button1 As Button
     Friend WithEvents Label5 As Label
-    Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
 End Class

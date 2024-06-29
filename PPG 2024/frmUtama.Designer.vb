@@ -35,6 +35,8 @@ Partial Class frmUtama
         Me.Button10 = New System.Windows.Forms.Button()
         Me.PictureBox9 = New System.Windows.Forms.PictureBox()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.lblScore = New System.Windows.Forms.Label()
         CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -170,6 +172,28 @@ Partial Class frmUtama
         Me.Label1.TabIndex = 53
         Me.Label1.Text = "Cara Bermain"
         '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.BackColor = System.Drawing.Color.Transparent
+        Me.Label8.Font = New System.Drawing.Font("Bernard MT Condensed", 12.096!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.Location = New System.Drawing.Point(701, 40)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(170, 25)
+        Me.Label8.TabIndex = 70
+        Me.Label8.Text = "Score Anda Saat Ini:"
+        '
+        'lblScore
+        '
+        Me.lblScore.AutoSize = True
+        Me.lblScore.BackColor = System.Drawing.Color.Transparent
+        Me.lblScore.Font = New System.Drawing.Font("Bernard MT Condensed", 12.096!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblScore.Location = New System.Drawing.Point(877, 40)
+        Me.lblScore.Name = "lblScore"
+        Me.lblScore.Size = New System.Drawing.Size(54, 25)
+        Me.lblScore.TabIndex = 69
+        Me.lblScore.Text = "Score"
+        '
         'frmUtama
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
@@ -178,6 +202,8 @@ Partial Class frmUtama
         Me.BackgroundImage = Global.PPG_2024.My.Resources.Resources.bgmain
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(962, 487)
+        Me.Controls.Add(Me.Label8)
+        Me.Controls.Add(Me.lblScore)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.PictureBox9)
         Me.Controls.Add(Me.Button10)
@@ -213,4 +239,6 @@ Partial Class frmUtama
     Friend WithEvents Button10 As Button
     Friend WithEvents PictureBox9 As PictureBox
     Friend WithEvents Label1 As Label
+    Friend WithEvents Label8 As Label
+    Friend WithEvents lblScore As Label
 End Class

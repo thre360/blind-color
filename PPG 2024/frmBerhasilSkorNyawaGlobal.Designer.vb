@@ -34,7 +34,7 @@ Partial Class frmBerhasilSkorNyawaGlobal
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(256, 96)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(194, 17)
+        Me.Label1.Size = New System.Drawing.Size(184, 16)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "SKOR DAN NYAWA GLOBAL"
         '
@@ -43,7 +43,7 @@ Partial Class frmBerhasilSkorNyawaGlobal
         Me.lblSkorGlobal.AutoSize = True
         Me.lblSkorGlobal.Location = New System.Drawing.Point(114, 162)
         Me.lblSkorGlobal.Name = "lblSkorGlobal"
-        Me.lblSkorGlobal.Size = New System.Drawing.Size(47, 17)
+        Me.lblSkorGlobal.Size = New System.Drawing.Size(44, 16)
         Me.lblSkorGlobal.TabIndex = 0
         Me.lblSkorGlobal.Text = "SKOR"
         '
@@ -52,7 +52,7 @@ Partial Class frmBerhasilSkorNyawaGlobal
         Me.lblNyawaGlobal.AutoSize = True
         Me.lblNyawaGlobal.Location = New System.Drawing.Point(114, 211)
         Me.lblNyawaGlobal.Name = "lblNyawaGlobal"
-        Me.lblNyawaGlobal.Size = New System.Drawing.Size(58, 17)
+        Me.lblNyawaGlobal.Size = New System.Drawing.Size(57, 16)
         Me.lblNyawaGlobal.TabIndex = 0
         Me.lblNyawaGlobal.Text = "NYAWA"
         '

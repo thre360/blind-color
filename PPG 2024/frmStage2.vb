@@ -1,21 +1,46 @@
 ﻿Public Class frmStage2
-    Private Sub PictureBox2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
 
-    End Sub
-
-    Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub PictureBox3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-    End Sub
+    Private totalStages As Integer = 10
+    Private currentStage As Integer = 1
+    Dim nomorJawaban As Integer = 1
+    Public Shared score As Integer = 0
 
     Private isPictureBox3Visible As Boolean = True
     Private isPictureBox1Visible As Boolean = True
     Private isPictureBox2Visible As Boolean = True
     Private isPictureBox8Visible As Boolean = True
 
+    Private Sub PictureBox6_Click(sender As Object, e As EventArgs) Handles PictureBox6.Click
+        If nomorJawaban = 1 Then
+            jawaban1()
+        End If
+        Me.Close()
+        frmWin.Show()
+    End Sub
+
+    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
+        If nomorJawaban = 1 Then
+            jawaban1()
+        End If
+        Me.Close()
+        frmWin.Show()
+    End Sub
+
+    Private Sub frmStage2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        lblScore.Text = frmStage1.score.ToString()
+        lblScore.Text = temp.skorGlobalStage1
+        Timer1.Start()
+        ResetTimer()
+    End Sub
+
+    Public Sub jawaban1()
+        If PictureBox7.Visible Then
+            score += 10
+            lblScore.Text = score.ToString()
+            temp.skorGlobalStage1 = temp.skorGlobalStage1 + 10
+            lblScore.Text = temp.skorGlobalStage1
+        End If
+    End Sub
     Private Sub PictureBox5_Click(sender As Object, e As EventArgs) Handles PictureBox5.Click
         If isPictureBox3Visible Then
             Me.Controls.Remove(PictureBox3)
@@ -31,11 +56,7 @@
         End If
     End Sub
 
-    Private Sub PictureBox6_Click(sender As Object, e As EventArgs) Handles PictureBox6.Click
-        frmWin.ShowDialog()
-        Me.Close()
-        frmStage3.Show()
-    End Sub
+
 
     Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
         If isPictureBox3Visible Then
@@ -67,10 +88,7 @@
         End If
     End Sub
 
-    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
-        Me.Close()
-        frmWin.Show()
-    End Sub
+
 
     Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click
         If isPictureBox3Visible Then
@@ -93,10 +111,7 @@
 
     Private remainingTime As TimeSpan
 
-    Private Sub frmStage2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Timer1.Start()
-        ResetTimer()
-    End Sub
+
 
     Public Sub ResetTimer()
         targetDT = DateTime.Now
@@ -125,4 +140,6 @@
             frmTimeout.Show()
         End If
     End Sub
+
+
 End Class

@@ -29,6 +29,8 @@ Partial Class frmWin
         Me.PictureBox4 = New System.Windows.Forms.PictureBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.PictureBox5 = New System.Windows.Forms.PictureBox()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.lblScore = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -96,12 +98,34 @@ Partial Class frmWin
         '
         Me.PictureBox5.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox5.Image = Global.PPG_2024.My.Resources.Resources.Next_win_removebg_preview__1_
-        Me.PictureBox5.Location = New System.Drawing.Point(362, 388)
+        Me.PictureBox5.Location = New System.Drawing.Point(388, 394)
         Me.PictureBox5.Name = "PictureBox5"
-        Me.PictureBox5.Size = New System.Drawing.Size(244, 70)
+        Me.PictureBox5.Size = New System.Drawing.Size(198, 70)
         Me.PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox5.TabIndex = 66
         Me.PictureBox5.TabStop = False
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.BackColor = System.Drawing.Color.Transparent
+        Me.Label8.Font = New System.Drawing.Font("Bernard MT Condensed", 12.096!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.Location = New System.Drawing.Point(369, 366)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(170, 25)
+        Me.Label8.TabIndex = 68
+        Me.Label8.Text = "Score Anda Saat Ini:"
+        '
+        'lblScore
+        '
+        Me.lblScore.AutoSize = True
+        Me.lblScore.BackColor = System.Drawing.Color.Transparent
+        Me.lblScore.Font = New System.Drawing.Font("Bernard MT Condensed", 12.096!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblScore.Location = New System.Drawing.Point(545, 366)
+        Me.lblScore.Name = "lblScore"
+        Me.lblScore.Size = New System.Drawing.Size(54, 25)
+        Me.lblScore.TabIndex = 67
+        Me.lblScore.Text = "Score"
         '
         'frmWin
         '
@@ -109,6 +133,8 @@ Partial Class frmWin
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = Global.PPG_2024.My.Resources.Resources.WhatsApp_Image_2024_06_26_at_20_08_33_28025de9
         Me.ClientSize = New System.Drawing.Size(962, 487)
+        Me.Controls.Add(Me.Label8)
+        Me.Controls.Add(Me.lblScore)
         Me.Controls.Add(Me.PictureBox5)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.PictureBox4)
@@ -125,6 +151,7 @@ Partial Class frmWin
         CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
@@ -134,4 +161,6 @@ Partial Class frmWin
     Friend WithEvents PictureBox4 As PictureBox
     Friend WithEvents Button1 As Button
     Friend WithEvents PictureBox5 As PictureBox
+    Friend WithEvents Label8 As Label
+    Friend WithEvents lblScore As Label
 End Class

@@ -41,7 +41,7 @@ Partial Class frmSkorNyawaGlobal
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(514, 47)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(50, 17)
+        Me.Label1.Size = New System.Drawing.Size(49, 16)
         Me.Label1.TabIndex = 9
         Me.Label1.Text = "Nyawa"
         '
@@ -50,7 +50,7 @@ Partial Class frmSkorNyawaGlobal
         Me.lblNyawa.AutoSize = True
         Me.lblNyawa.Location = New System.Drawing.Point(514, 79)
         Me.lblNyawa.Name = "lblNyawa"
-        Me.lblNyawa.Size = New System.Drawing.Size(81, 17)
+        Me.lblNyawa.Size = New System.Drawing.Size(79, 16)
         Me.lblNyawa.TabIndex = 10
         Me.lblNyawa.Text = "Nilai Nyawa"
         '
@@ -59,7 +59,7 @@ Partial Class frmSkorNyawaGlobal
         Me.lblScore.AutoSize = True
         Me.lblScore.Location = New System.Drawing.Point(623, 79)
         Me.lblScore.Name = "lblScore"
-        Me.lblScore.Size = New System.Drawing.Size(76, 17)
+        Me.lblScore.Size = New System.Drawing.Size(73, 16)
         Me.lblScore.TabIndex = 7
         Me.lblScore.Text = "NIlai Score"
         '
@@ -92,7 +92,7 @@ Partial Class frmSkorNyawaGlobal
         Me.rbD.AutoSize = True
         Me.rbD.Location = New System.Drawing.Point(311, 134)
         Me.rbD.Name = "rbD"
-        Me.rbD.Size = New System.Drawing.Size(39, 21)
+        Me.rbD.Size = New System.Drawing.Size(38, 20)
         Me.rbD.TabIndex = 4
         Me.rbD.TabStop = True
         Me.rbD.Text = "D"
@@ -103,7 +103,7 @@ Partial Class frmSkorNyawaGlobal
         Me.rbC.AutoSize = True
         Me.rbC.Location = New System.Drawing.Point(311, 84)
         Me.rbC.Name = "rbC"
-        Me.rbC.Size = New System.Drawing.Size(38, 21)
+        Me.rbC.Size = New System.Drawing.Size(37, 20)
         Me.rbC.TabIndex = 3
         Me.rbC.TabStop = True
         Me.rbC.Text = "C"
@@ -114,7 +114,7 @@ Partial Class frmSkorNyawaGlobal
         Me.rbB.AutoSize = True
         Me.rbB.Location = New System.Drawing.Point(41, 134)
         Me.rbB.Name = "rbB"
-        Me.rbB.Size = New System.Drawing.Size(38, 21)
+        Me.rbB.Size = New System.Drawing.Size(37, 20)
         Me.rbB.TabIndex = 2
         Me.rbB.TabStop = True
         Me.rbB.Text = "B"
@@ -125,7 +125,7 @@ Partial Class frmSkorNyawaGlobal
         Me.rbA.AutoSize = True
         Me.rbA.Location = New System.Drawing.Point(41, 84)
         Me.rbA.Name = "rbA"
-        Me.rbA.Size = New System.Drawing.Size(38, 21)
+        Me.rbA.Size = New System.Drawing.Size(37, 20)
         Me.rbA.TabIndex = 1
         Me.rbA.TabStop = True
         Me.rbA.Text = "A"
@@ -136,7 +136,7 @@ Partial Class frmSkorNyawaGlobal
         Me.lblPertanyaan.AutoSize = True
         Me.lblPertanyaan.Location = New System.Drawing.Point(38, 49)
         Me.lblPertanyaan.Name = "lblPertanyaan"
-        Me.lblPertanyaan.Size = New System.Drawing.Size(85, 17)
+        Me.lblPertanyaan.Size = New System.Drawing.Size(79, 16)
         Me.lblPertanyaan.TabIndex = 0
         Me.lblPertanyaan.Text = "Pertanyaan "
         '
@@ -145,7 +145,7 @@ Partial Class frmSkorNyawaGlobal
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(623, 47)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(45, 17)
+        Me.Label2.Size = New System.Drawing.Size(43, 16)
         Me.Label2.TabIndex = 8
         Me.Label2.Text = "Score"
         '

@@ -1,20 +1,23 @@
 ﻿Public Class frmStage5
-    Private Sub PictureBox2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        MessageBox.Show("Jawaban anda benar")
-    End Sub
 
-    Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        MessageBox.Show("Jawaban anda salah")
-    End Sub
-
-    Private Sub PictureBox3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        MessageBox.Show("Jawaban anda salah")
-    End Sub
+    Private totalStages As Integer = 10
+    Private currentStage As Integer = 1
+    Dim nomorJawaban As Integer = 1
+    Public Shared score As Integer = 0
 
     Private isPictureBox3Visible As Boolean = True
     Private isPictureBox1Visible As Boolean = True
     Private isPictureBox2Visible As Boolean = True
     Private isPictureBox8Visible As Boolean = True
+
+    Public Sub jawaban1()
+        If PictureBox7.Visible Then
+            score += 10
+            lblScore.Text = score.ToString()
+            temp.skorGlobalStage1 = temp.skorGlobalStage1 + 10
+            lblScore.Text = temp.skorGlobalStage1
+        End If
+    End Sub
 
     Private Sub PictureBox5_Click(sender As Object, e As EventArgs) Handles PictureBox5.Click
         If isPictureBox3Visible Then
@@ -32,6 +35,9 @@
     End Sub
 
     Private Sub PictureBox6_Click(sender As Object, e As EventArgs) Handles PictureBox6.Click
+        If nomorJawaban = 1 Then
+            jawaban1()
+        End If
         Me.Close()
         frmWin.Show()
     End Sub
@@ -67,6 +73,9 @@
     End Sub
 
     Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click
+        If nomorJawaban = 1 Then
+            jawaban1()
+        End If
         Me.Close()
         frmWin.Show()
     End Sub
@@ -93,6 +102,8 @@
     Private remainingTime As TimeSpan
 
     Private Sub frmStage5_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        lblScore.Text = frmStage4.score.ToString()
+        lblScore.Text = temp.skorGlobalStage1
         Timer1.Start()
         ResetTimer()
     End Sub

@@ -1,19 +1,11 @@
-﻿Public Class frmStage1
+﻿Imports System.Security.Cryptography
 
-    Private score As Integer = 0  ' Stores the current score
-    Private totalStages As Integer = 10  ' Number of total stages (modify as needed)
+Public Class frmStage1
+
+    Private totalStages As Integer = 10
     Private currentStage As Integer = 1
-    Private Sub PictureBox2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub PictureBox3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-    End Sub
+    Dim nomorJawaban As Integer = 1
+    Public Shared score As Integer = 0
 
     Private isPictureBox3Visible As Boolean = True
     Private isPictureBox1Visible As Boolean = True
@@ -36,6 +28,9 @@
     End Sub
 
     Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
+        If nomorJawaban = 1 Then
+            jawaban1()
+        End If
         Me.Close()
         frmWin.Show()
     End Sub
@@ -71,6 +66,9 @@
     End Sub
 
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
+        If nomorJawaban = 1 Then
+            jawaban1()
+        End If
         Me.Close()
         frmWin.Show()
     End Sub
@@ -90,10 +88,6 @@
         End If
     End Sub
 
-    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs)
-
-    End Sub
-
     Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
         Me.Close()
         frmUtama.Show()
@@ -106,6 +100,7 @@
     Private remainingTime As TimeSpan
 
     Private Sub frmStage1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        lblScore.Text = temp.skorGlobalStage1
         Timer1.Start()
         ResetTimer()
     End Sub
@@ -128,7 +123,13 @@
         End If
     End Sub
 
-    Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
-
+    Public Sub jawaban1()
+        If PictureBox7.Visible Then
+            score += 10
+            lblScore.Text = score.ToString()
+            temp.skorGlobalStage1 = temp.skorGlobalStage1 + 10
+            lblScore.Text = temp.skorGlobalStage1
+        End If
     End Sub
+
 End Class

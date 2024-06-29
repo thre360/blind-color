@@ -15,4 +15,12 @@
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
         MessageBox.Show("Button 2 di klik")
     End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+    End Sub
+
+    Private Sub lblSkorGlobal_Click(sender As Object, e As EventArgs) Handles lblSkorGlobal.Click
+
+    End Sub
 End Class

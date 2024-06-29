@@ -1,5 +1,5 @@
 ﻿Public Class frmUtama
-
+    Public Shared score As Integer = 0
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         Me.Close()
         frmStage1.Show()
@@ -56,11 +56,15 @@
     End Sub
 
     Private Sub frmUtama_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+        lblScore.Text = temp.skorGlobalStage1
     End Sub
 
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
         Me.Close()
         frmCara.Show()
+    End Sub
+
+    Private Sub PictureBox1_Click(sender As Object, e As EventArgs)
+
     End Sub
 End Class

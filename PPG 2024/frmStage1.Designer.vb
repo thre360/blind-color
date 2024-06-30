@@ -279,6 +279,7 @@ Partial Class frmStage1
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label5)
         Me.DoubleBuffered = True
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "frmStage1"

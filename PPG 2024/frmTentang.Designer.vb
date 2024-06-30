@@ -101,6 +101,7 @@ Partial Class frmTentang
         Me.Controls.Add(Me.ListBox1)
         Me.Controls.Add(Me.TextBox1)
         Me.DoubleBuffered = True
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmTentang"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen

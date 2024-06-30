@@ -91,6 +91,7 @@ Partial Class frmMulai
         Me.Controls.Add(Me.PictureBox1)
         Me.Cursor = System.Windows.Forms.Cursors.Default
         Me.DoubleBuffered = True
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmMulai"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen

@@ -129,6 +129,7 @@ Partial Class frmLose
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.PictureBox3)
         Me.Controls.Add(Me.PictureBox1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmLose"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen

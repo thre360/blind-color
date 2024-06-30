@@ -3,147 +3,163 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmmulai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmmulai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmpilihgambar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmpilihgambar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmrandom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmrandom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmskornyawa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmskornyawa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmlose.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmlose.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmcara.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmcara.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmwin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmwin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmpilihgambar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmpilihgambar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmloading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmloading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmwin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmwin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmtimeout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmtimeout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmtentang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmtentang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmstage2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmloading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmloading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmstage3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmwin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmwin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmberhasilskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmberhasilskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmberhasilskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\frmberhasilskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmberhasilskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmberhasilskornyawaglobal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmcara.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmcara.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PPG 2024||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmtimeout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmtimeout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmtimeout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -152,14 +168,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmtxtbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmtxtbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmtentang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmtentang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmmulai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmmulai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmlose.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -172,9 +180,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\ppg 2024\\frmjawabanbintang5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|solutionrelative:ppg 2024\\frmjawabanbintang5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00F149D0-614D-498C-8329-738C06AE89CD}|PPG 2024\\PPG 2024.vbproj|c:\\users\\lenovo\\downloads\\compressed\\ppg 2024\\ppg 2024\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
     }
   ],
   "DocumentGroupContainers": [
@@ -184,17 +189,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "frmStage2.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage2.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage2.vb",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage2.vb",
               "RelativeToolTip": "PPG 2024\\frmStage2.vb",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAswCcAAAA+AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-27T17:49:23.069Z",
               "IsPinned": true,
@@ -202,19 +207,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmStage1.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage1.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage1.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage1.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage1.vb [Design]",
+              "DocumentIndex": 2,
+              "Title": "frmRandom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmRandom.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmRandom.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmRandom.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmRandom.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:42.463Z",
+              "WhenOpened": "2024-06-30T14:05:18.995Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "frmSkorNyawa.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSkorNyawa.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmSkorNyawa.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSkorNyawa.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmSkorNyawa.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T14:05:17.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPilihGambar.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmPilihGambar.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmPilihGambar.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmPilihGambar.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmPilihGambar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-29T07:52:53.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMulai.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmMulai.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmMulai.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmMulai.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmMulai.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:41.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCara.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmCara.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmCara.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmCara.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmCara.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:42.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "frmWin.vb [Design]",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmWin.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmWin.vb",
@@ -226,7 +279,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "frmUtama.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmUtama.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmUtama.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmUtama.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:43.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "frmLose.vb [Design]",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmLose.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmLose.vb",
@@ -238,7 +303,175 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "frmSettings.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSettings.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmSettings.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSettings.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmSettings.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-29T07:41:58.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTimeout.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTimeout.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmTimeout.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTimeout.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmTimeout.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:08:47.243Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmTentang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTentang.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmTentang.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTentang.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmTentang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:43.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmStage9.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage9.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage9.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage9.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage9.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:42.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmStage8.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage8.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage8.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage8.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage8.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:42.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmStage7.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage7.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage7.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage7.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:44.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmStage6.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage6.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage6.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage6.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:42.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmStage5.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage5.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage5.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage5.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:43.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmStage4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage4.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage4.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage4.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:41.219Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmStage2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage2.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage2.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage2.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:41.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmStage3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage3.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage3.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage3.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:43.419Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmStage10.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage10.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage10.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage10.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage10.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:41.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmStage1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage1.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmStage1.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage1.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmStage1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:42.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmLoading.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmLoading.vb",
+              "RelativeDocumentMoniker": "PPG 2024\\frmLoading.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmLoading.vb [Design]",
+              "RelativeToolTip": "PPG 2024\\frmLoading.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T15:09:43.885Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "frmStage1.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage1.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage1.vb",
@@ -251,43 +484,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmStage2.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage2.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage2.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage2.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage2.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:41.634Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmPilihGambar.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmPilihGambar.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmPilihGambar.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmPilihGambar.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmPilihGambar.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-29T07:52:53.303Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
               "Title": "frmSkorNyawaGlobal.vb [Design]",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSkorNyawaGlobal.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmSkorNyawaGlobal.vb",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSkorNyawaGlobal.vb [Design]",
               "RelativeToolTip": "PPG 2024\\frmSkorNyawaGlobal.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-29T05:42:58.494Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-29T05:42:58.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "frmStage8.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage8.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage8.vb",
@@ -300,31 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmLoading.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmLoading.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmLoading.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmLoading.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmLoading.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:43.885Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmStage9.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage9.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage9.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage9.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage9.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:42.021Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "frmStage10.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage10.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage10.vb",
@@ -337,19 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmStage10.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage10.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage10.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage10.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage10.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:41.45Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "frmStage9.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage9.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage9.vb",
@@ -362,19 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "frmStage8.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage8.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage8.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage8.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage8.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:42.634Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "frmStage7.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage7.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage7.vb",
@@ -387,19 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmStage7.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage7.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage7.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage7.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage7.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:44.069Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "frmStage6.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage6.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage6.vb",
@@ -412,19 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "frmStage6.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage6.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage6.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage6.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage6.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:42.2Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "frmStage5.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage5.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage5.vb",
@@ -437,19 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "frmStage5.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage5.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage5.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage5.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage5.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:43.119Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "frmStage4.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage4.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage4.vb",
@@ -462,19 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "frmStage4.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage4.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage4.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage4.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage4.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:41.219Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "frmStage3.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage3.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmStage3.vb",
@@ -487,19 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "frmStage3.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage3.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmStage3.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmStage3.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmStage3.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:43.419Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "frmWin.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmWin.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmWin.vb",
@@ -512,19 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "frmUtama.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmUtama.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmUtama.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmUtama.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmUtama.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:43.734Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "frmUtama.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmUtama.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmUtama.vb",
@@ -537,19 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "frmSettings.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSettings.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmSettings.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSettings.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmSettings.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-29T07:41:58.519Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "frmSettings.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSettings.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmSettings.vb",
@@ -562,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "frmSkorNyawaGlobal.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSkorNyawaGlobal.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmSkorNyawaGlobal.vb",
@@ -570,12 +646,11 @@
               "RelativeToolTip": "PPG 2024\\frmSkorNyawaGlobal.vb",
               "ViewState": "AQIAABcAAAAAAAAAAAAgwAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-29T05:43:02.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T05:43:02.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "frmBerhasilSkorNyawaGlobal.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmBerhasilSkorNyawaGlobal.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmBerhasilSkorNyawaGlobal.vb",
@@ -583,59 +658,33 @@
               "RelativeToolTip": "PPG 2024\\frmBerhasilSkorNyawaGlobal.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-29T05:36:19.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T05:36:19.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "frmBerhasilSkorNyawaGlobal.vb [Design]",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmBerhasilSkorNyawaGlobal.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmBerhasilSkorNyawaGlobal.vb",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmBerhasilSkorNyawaGlobal.vb [Design]",
               "RelativeToolTip": "PPG 2024\\frmBerhasilSkorNyawaGlobal.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-29T05:36:16.423Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-29T05:36:16.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "frmCara.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmCara.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmCara.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmCara.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmCara.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:42.785Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "PPG 2024",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\PPG 2024.vbproj",
               "RelativeDocumentMoniker": "PPG 2024\\PPG 2024.vbproj",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\PPG 2024.vbproj",
               "RelativeToolTip": "PPG 2024\\PPG 2024.vbproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-27T15:12:14.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T15:12:14.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "frmTimeout.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTimeout.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmTimeout.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTimeout.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmTimeout.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:08:47.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "frmTimeout.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTimeout.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmTimeout.vb",
@@ -643,11 +692,12 @@
               "RelativeToolTip": "PPG 2024\\frmTimeout.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:11:25.714Z"
+              "WhenOpened": "2024-06-27T15:11:25.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "frmTxtBox.vb [Design]",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTxtBox.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmTxtBox.vb",
@@ -658,29 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "frmTentang.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTentang.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmTentang.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmTentang.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmTentang.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:43.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "frmMulai.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmMulai.vb",
-              "RelativeDocumentMoniker": "PPG 2024\\frmMulai.vb",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmMulai.vb [Design]",
-              "RelativeToolTip": "PPG 2024\\frmMulai.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-27T15:09:41.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "frmLose.vb",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmLose.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmLose.vb",
@@ -693,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "frmSwapGambar.vb [Design]",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmSwapGambar.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmSwapGambar.vb",
@@ -704,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "frmJawabanBintang5.vb [Design]",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\PPG 2024\\PPG 2024\\frmJawabanBintang5.vb",
               "RelativeDocumentMoniker": "PPG 2024\\frmJawabanBintang5.vb",

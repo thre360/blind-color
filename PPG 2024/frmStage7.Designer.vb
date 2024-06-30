@@ -283,6 +283,7 @@ Partial Class frmStage7
         Me.Controls.Add(Me.Label5)
         Me.DoubleBuffered = True
         Me.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmStage7"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen

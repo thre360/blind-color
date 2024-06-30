@@ -282,6 +282,7 @@ Partial Class frmStage6
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label5)
         Me.DoubleBuffered = True
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmStage6"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
